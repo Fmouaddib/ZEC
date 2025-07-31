@@ -7,10 +7,24 @@ X-WR-CALDESC:Planning des lives ZEC Formation - DSCG Finance
 X-WR-CALNAME:ZEC - DSCG Finance
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:🎓 TEST FINANCE
+DTSTART;TZID=Europe/Paris:20250801T120000
+DTEND;TZID=Europe/Paris:20250801T150000
+DTSTAMP:20250731T095950Z
+UID:zec-student-73-DSCG_Finance@zeroencompta.com
+CATEGORIES:DSCG,Finance
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Fah
+ d MOUADDIB\n⏱️ Durée: 180 minutes\n\n📧 Contact: contact@zeroencomp
+ ta.com\n🌐 ZEC Formation - Zeronecompta
+LOCATION:En ligne
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎓 La valeur
 DTSTART;TZID=Europe/Paris:20250821T190000
 DTEND;TZID=Europe/Paris:20250821T200000
-DTSTAMP:20250730T221525Z
+DTSTAMP:20250731T095950Z
 UID:zec-student-43-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
@@ -24,134 +38,8 @@ BEGIN:VEVENT
 SUMMARY:🎓 La valeur
 DTSTART;TZID=Europe/Paris:20250828T190000
 DTEND;TZID=Europe/Paris:20250828T200000
-DTSTAMP:20250730T221525Z
+DTSTAMP:20250731T095950Z
 UID:zec-student-44-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 60 minutes\n\n📧 Contact: contact@zeroencompta
- .com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 Diagnostic financier approfondi
-DTSTART;TZID=Europe/Paris:20250902T190000
-DTEND;TZID=Europe/Paris:20250902T203000
-DTSTAMP:20250730T221525Z
-UID:zec-student-45-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 90 minutes\n\n📧 Contact: contact@zeroencompta
- .com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 Diagnostic financier approfondi
-DTSTART;TZID=Europe/Paris:20250909T190000
-DTEND;TZID=Europe/Paris:20250909T200000
-DTSTAMP:20250730T221525Z
-UID:zec-student-46-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 60 minutes\n\n📧 Contact: contact@zeroencompta
- .com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 Evaluation d'entreprise
-DTSTART;TZID=Europe/Paris:20250916T190000
-DTEND;TZID=Europe/Paris:20250916T200000
-DTSTAMP:20250730T221525Z
-UID:zec-student-62-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 60 minutes\n\n📧 Contact: contact@zeroencompta
- .com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 Ingénierie financière
-DTSTART;TZID=Europe/Paris:20250928T110000
-DTEND;TZID=Europe/Paris:20250928T123000
-DTSTAMP:20250730T221525Z
-UID:zec-student-63-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 90 minutes\n\n📧 Contact: contact@zeroencompta
- .com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 Ingénierie financière
-DTSTART;TZID=Europe/Paris:20251005T110000
-DTEND;TZID=Europe/Paris:20251005T123000
-DTSTAMP:20250730T221525Z
-UID:zec-student-64-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 90 minutes\n\n📧 Contact: contact@zeroencompta
- .com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 La trésorerie
-DTSTART;TZID=Europe/Paris:20251012T110000
-DTEND;TZID=Europe/Paris:20251012T123000
-DTSTAMP:20250730T221525Z
-UID:zec-student-65-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 90 minutes\n\n📧 Contact: contact@zeroencompta
- .com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 Diagnostic financier approfondi
-DTSTART;TZID=Europe/Paris:20251016T190000
-DTEND;TZID=Europe/Paris:20251016T200000
-DTSTAMP:20250730T221525Z
-UID:zec-student-68-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 60 minutes\n\n📧 Contact: contact@zeroencompta
- .com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 La trésorerie + Ingénierie financière
-DTSTART;TZID=Europe/Paris:20251019T110000
-DTEND;TZID=Europe/Paris:20251019T123000
-DTSTAMP:20250730T221525Z
-UID:zec-student-66-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 90 minutes\n\n📧 Contact: contact@zeroencompta
- .com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 Révision Veille de l'epereuve - Questions/Réponses
-DTSTART;TZID=Europe/Paris:20251020T210000
-DTEND;TZID=Europe/Paris:20251020T220000
-DTSTAMP:20250730T221525Z
-UID:zec-student-67-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
