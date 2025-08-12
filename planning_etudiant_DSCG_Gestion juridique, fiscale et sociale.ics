@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 1 - Régime fiscal des groupes
 DTSTART;TZID=Europe/Paris:20250823T110000
 DTEND;TZID=Europe/Paris:20250823T123000
-DTSTAMP:20250812T120413Z
+DTSTAMP:20250812T194844Z
 UID:zec-student-78-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG - Bienvenue aux nouveaux inscrits
 DTSTART;TZID=Europe/Paris:20250824T110000
 DTEND;TZID=Europe/Paris:20250824T113000
-DTSTAMP:20250812T120413Z
+DTSTAMP:20250812T194844Z
 UID:zec-student-70-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 1 - Régime fiscal des groupes
 DTSTART;TZID=Europe/Paris:20250824T120000
 DTEND;TZID=Europe/Paris:20250824T133000
-DTSTAMP:20250812T120413Z
+DTSTAMP:20250812T194844Z
 UID:zec-student-79-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 1 - Régime fiscal des groupes
 DTSTART;TZID=Europe/Paris:20250826T210000
 DTEND;TZID=Europe/Paris:20250826T220000
-DTSTAMP:20250812T120413Z
+DTSTAMP:20250812T194844Z
 UID:zec-student-80-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 1 - Fiscalité internationnale
 DTSTART;TZID=Europe/Paris:20250830T110000
 DTEND;TZID=Europe/Paris:20250830T123000
-DTSTAMP:20250812T120413Z
+DTSTAMP:20250812T194844Z
 UID:zec-student-81-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 1 - Fiscalité internationnale
 DTSTART;TZID=Europe/Paris:20250831T110000
 DTEND;TZID=Europe/Paris:20250831T123000
-DTSTAMP:20250812T120413Z
+DTSTAMP:20250812T194844Z
 UID:zec-student-82-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
@@ -99,11 +99,41 @@ LOCATION:En ligne
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 DSCG UE 1 - Fiscalité internationnale
-DTSTART;TZID=Europe/Paris:20250901T210000
-DTEND;TZID=Europe/Paris:20250901T220000
-DTSTAMP:20250812T120413Z
+SUMMARY:🎓 DSCG UE 1 - Régime fiscal des fusions
+DTSTART;TZID=Europe/Paris:20250903T190000
+DTEND;TZID=Europe/Paris:20250903T203000
+DTSTAMP:20250812T194844Z
 UID:zec-student-83-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
+ a.com
+CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Gestion juridique\, fiscale et socia
+ le\n👨‍🏫 Professeur: Simon MALET\n⏱️ Durée: 90 minutes\n\n📧
+  Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+LOCATION:En ligne
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 1 - Droit des contrats
+DTSTART;TZID=Europe/Paris:20250906T110000
+DTEND;TZID=Europe/Paris:20250906T123000
+DTSTAMP:20250812T194844Z
+UID:zec-student-86-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
+ a.com
+CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Gestion juridique\, fiscale et socia
+ le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 90 minutes\n\n
+ 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+LOCATION:En ligne
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 1 - Droit des contrats
+DTSTART;TZID=Europe/Paris:20250911T210000
+DTEND;TZID=Europe/Paris:20250911T220000
+DTSTAMP:20250812T194844Z
+UID:zec-student-87-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
 CLASS:PUBLIC
