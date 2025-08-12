@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZEC Formation - DCG Comptabilité//Planning Etudiant v1.0//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Planning des lives ZEC Formation - DCG Comptabilité
+X-WR-CALNAME:ZEC - DCG Comptabilité
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
+DTSTART;TZID=Europe/Paris:20250831T123000
+DTEND;TZID=Europe/Paris:20250831T130000
+DTSTAMP:20250812T142919Z
+UID:zec-student-84-DCG_Comptabilité@zeroencompta.com
+CATEGORIES:DCG,Comptabilité
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité\n👨‍🏫 Professeur
+ : Fahd MOUADDIB\n⏱️ Durée: 30 minutes\n\n📧 Contact: contact@zeroen
+ compta.com\n🌐 ZEC Formation - Zeronecompta
+LOCATION:En ligne
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
+DTSTART;TZID=Europe/Paris:20250920T110000
+DTEND;TZID=Europe/Paris:20250920T113000
+DTSTAMP:20250812T142919Z
+UID:zec-student-85-DCG_Comptabilité@zeroencompta.com
+CATEGORIES:DCG,Comptabilité
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité\n👨‍🏫 Professeur
+ : Fahd MOUADDIB\n⏱️ Durée: 30 minutes\n\n📧 Contact: contact@zeroen
+ compta.com\n🌐 ZEC Formation - Zeronecompta
+LOCATION:En ligne
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
