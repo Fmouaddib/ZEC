@@ -12,150 +12,180 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 1 - Régime fiscal des groupes
 DTSTART;TZID=Europe/Paris:20250823T110000
 DTEND;TZID=Europe/Paris:20250823T123000
-DTSTAMP:20250812T201442Z
+DTSTAMP:20250819T185318Z
 UID:zec-student-78-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DSCG Gestion juridique\, fiscale et socia
- le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 90 minutes\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
+ le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 90 minutes\n🔗
+  Lien: https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66n
+ RWzv.1&omn=66322459653\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC
+  Formation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=66322459653
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 DSCG - Bienvenue aux nouveaux inscrits
 DTSTART;TZID=Europe/Paris:20250824T110000
 DTEND;TZID=Europe/Paris:20250824T113000
-DTSTAMP:20250812T201442Z
+DTSTAMP:20250819T185318Z
 UID:zec-student-70-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DSCG Gestion juridique\, fiscale et socia
- le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 30 minutes\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
+ le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 30 minutes\n🔗
+  Lien: https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66n
+ RWzv.1&omn=68463967972\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC
+  Formation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=68463967972
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 1 - Régime fiscal des groupes
 DTSTART;TZID=Europe/Paris:20250824T120000
 DTEND;TZID=Europe/Paris:20250824T133000
-DTSTAMP:20250812T201442Z
+DTSTAMP:20250819T185318Z
 UID:zec-student-79-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DSCG Gestion juridique\, fiscale et socia
- le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 90 minutes\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
+ le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 90 minutes\n🔗
+  Lien: https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66n
+ RWzv.1&omn=62407872438\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC
+  Formation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=62407872438
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 1 - Régime fiscal des groupes
 DTSTART;TZID=Europe/Paris:20250826T210000
 DTEND;TZID=Europe/Paris:20250826T220000
-DTSTAMP:20250812T201442Z
+DTSTAMP:20250819T185318Z
 UID:zec-student-80-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DSCG Gestion juridique\, fiscale et socia
- le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
+ le\n👨‍🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 L
+ ien: https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRW
+ zv.1&omn=64604979920\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC F
+ ormation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=64604979920
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 1 - Fiscalité internationnale
 DTSTART;TZID=Europe/Paris:20250830T110000
 DTEND;TZID=Europe/Paris:20250830T123000
-DTSTAMP:20250812T201442Z
+DTSTAMP:20250819T185318Z
 UID:zec-student-81-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DSCG Gestion juridique\, fiscale et socia
- le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 90 minutes\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
+ le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 90 minutes\n🔗
+  Lien: https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66n
+ RWzv.1&omn=69285467298\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC
+  Formation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=69285467298
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 1 - Fiscalité internationnale
 DTSTART;TZID=Europe/Paris:20250831T110000
 DTEND;TZID=Europe/Paris:20250831T123000
-DTSTAMP:20250812T201442Z
+DTSTAMP:20250819T185318Z
 UID:zec-student-82-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DSCG Gestion juridique\, fiscale et socia
- le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 90 minutes\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DSCG UE 1 - Régime fiscal des fusions
-DTSTART;TZID=Europe/Paris:20250903T190000
-DTEND;TZID=Europe/Paris:20250903T203000
-DTSTAMP:20250812T201442Z
-UID:zec-student-83-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
- a.com
-CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Gestion juridique\, fiscale et socia
- le\n👨‍🏫 Professeur: Simon MALET\n⏱️ Durée: 90 minutes\n\n📧
-  Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
+ le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 90 minutes\n🔗
+  Lien: https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66n
+ RWzv.1&omn=63901693916\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC
+  Formation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=63901693916
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 1 - Droit des contrats
 DTSTART;TZID=Europe/Paris:20250906T110000
 DTEND;TZID=Europe/Paris:20250906T123000
-DTSTAMP:20250812T201442Z
+DTSTAMP:20250819T185318Z
 UID:zec-student-86-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DSCG Gestion juridique\, fiscale et socia
- le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 90 minutes\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
+ le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 90 minutes\n🔗
+  Lien: https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66n
+ RWzv.1&omn=62311596171\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC
+  Formation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=62311596171
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 1 - Droit des contrats
 DTSTART;TZID=Europe/Paris:20250910T210000
 DTEND;TZID=Europe/Paris:20250910T220000
-DTSTAMP:20250812T201442Z
+DTSTAMP:20250819T185318Z
 UID:zec-student-87-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DSCG Gestion juridique\, fiscale et socia
- le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
+ le\n👨‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗
+  Lien: https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66n
+ RWzv.1&omn=64837580187\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC
+  Formation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=64837580187
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 1 - Régime fiscal des fusions
+DTSTART;TZID=Europe/Paris:20250924T190000
+DTEND;TZID=Europe/Paris:20250924T203000
+DTSTAMP:20250819T185318Z
+UID:zec-student-83-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
+ a.com
+CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Gestion juridique\, fiscale et socia
+ le\n👨‍🏫 Professeur: Simon MALET\n⏱️ Durée: 90 minutes\n🔗 L
+ ien: https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRW
+ zv.1&omn=61265394018\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC F
+ ormation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=61265394018
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 1 - De l'entreprise au groupe
-DTSTART;TZID=Europe/Paris:20250913T110000
-DTEND;TZID=Europe/Paris:20250913T123000
-DTSTAMP:20250812T201442Z
+DTSTART;TZID=Europe/Paris:20250927T110000
+DTEND;TZID=Europe/Paris:20250927T123000
+DTSTAMP:20250819T185318Z
 UID:zec-student-88-DSCG_Gestion juridique\, fiscale et sociale@zeroencompt
  a.com
 CATEGORIES:DSCG,Gestion juridique\, fiscale et sociale
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DSCG Gestion juridique\, fiscale et socia
- le\n👨‍🏫 Professeur: Simon MALET\n⏱️ Durée: 90 minutes\n\n📧
-  Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne
+ le\n👨‍🏫 Professeur: Simon MALET\n⏱️ Durée: 90 minutes\n🔗 L
+ ien: https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRW
+ zv.1&omn=65019941836\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC F
+ ormation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=65019941836
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
