@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
 DTSTART;TZID=Europe/Paris:20250831T123000
 DTEND;TZID=Europe/Paris:20250831T130000
-DTSTAMP:20250917T223100Z
+DTSTAMP:20250917T232021Z
 UID:zec-student-84-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
 DTSTART;TZID=Europe/Paris:20250920T110000
 DTEND;TZID=Europe/Paris:20250920T113000
-DTSTAMP:20250917T223100Z
+DTSTAMP:20250917T232021Z
 UID:zec-student-85-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - LIVE OUVERT - Comment réussir le DCG efficacement ?
 DTSTART;TZID=Europe/Paris:20250922T210000
 DTEND;TZID=Europe/Paris:20250922T220000
-DTSTAMP:20250917T223100Z
+DTSTAMP:20250917T232021Z
 UID:zec-student-101-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -64,7 +64,7 @@ SUMMARY:🎓 DCG UE 10 - Remise à niveau UE 9 - Immobilisations et amorti
  ssements
 DTSTART;TZID=Europe/Paris:20251004T110000
 DTEND;TZID=Europe/Paris:20251004T120000
-DTSTAMP:20250917T223100Z
+DTSTAMP:20250917T232021Z
 UID:zec-student-106-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Remise à niveau UE 9 - Opérations de clôture
 DTSTART;TZID=Europe/Paris:20251011T110000
 DTEND;TZID=Europe/Paris:20251011T120000
-DTSTAMP:20250917T223100Z
+DTSTAMP:20250917T232021Z
 UID:zec-student-107-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -99,7 +99,7 @@ SUMMARY:🎓 DCG UE 10 - Remise à niveau UE 9 - Les opérations de financ
  ement (emprunts\, subventions\, ...)
 DTSTART;TZID=Europe/Paris:20251101T110000
 DTEND;TZID=Europe/Paris:20251101T120000
-DTSTAMP:20250917T223100Z
+DTSTAMP:20250917T232021Z
 UID:zec-student-108-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Remise à niveau UE 9
 DTSTART;TZID=Europe/Paris:20251108T110000
 DTEND;TZID=Europe/Paris:20251108T120000
-DTSTAMP:20250917T223100Z
+DTSTAMP:20250917T232021Z
 UID:zec-student-109-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC

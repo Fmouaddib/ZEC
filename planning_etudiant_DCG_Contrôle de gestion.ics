@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
 DTSTART;TZID=Europe/Paris:20250831T123000
 DTEND;TZID=Europe/Paris:20250831T130000
-DTSTAMP:20250917T223100Z
+DTSTAMP:20250917T232021Z
 UID:zec-student-84-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
 DTSTART;TZID=Europe/Paris:20250920T110000
 DTEND;TZID=Europe/Paris:20250920T113000
-DTSTAMP:20250917T223100Z
+DTSTAMP:20250917T232021Z
 UID:zec-student-85-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - LIVE OUVERT - Comment réussir le DCG efficacement ?
 DTSTART;TZID=Europe/Paris:20250922T210000
 DTEND;TZID=Europe/Paris:20250922T220000
-DTSTAMP:20250917T223100Z
+DTSTAMP:20250917T232021Z
 UID:zec-student-101-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -60,19 +60,36 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 11 - Coûts complets
-DTSTART;TZID=Europe/Paris:20251018T110000
-DTEND;TZID=Europe/Paris:20251018T120000
-DTSTAMP:20250917T223100Z
+DTSTART;TZID=Europe/Paris:20251018T150000
+DTEND;TZID=Europe/Paris:20251018T160000
+DTSTAMP:20250917T232021Z
 UID:zec-student-111-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
- fesseur: Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01
- web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=64945757
- 686\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zerone
- compta
+ fesseur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01we
+ b.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=6494575768
+ 6\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeroneco
+ mpta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=64945757686
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 11 - Coûts complets et variation de stocks
+DTSTART;TZID=Europe/Paris:20251025T110000
+DTEND;TZID=Europe/Paris:20251025T120000
+DTSTAMP:20250917T232021Z
+UID:zec-student-116-DCG_Contrôle de gestion@zeroencompta.com
+CATEGORIES:DCG,Contrôle de gestion
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
+ fesseur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01we
+ b.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=6754988624
+ 1\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeroneco
+ mpta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=67549886241
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
