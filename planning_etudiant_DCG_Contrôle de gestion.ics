@@ -9,9 +9,26 @@ X-WR-CALNAME:ZEC - DCG Contrôle de gestion
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
+DTSTART;TZID=Europe/Paris:20250831T123000
+DTEND;TZID=Europe/Paris:20250831T130000
+DTSTAMP:20250928T184856Z
+UID:zec-student-84-DCG_Contrôle de gestion@zeroencompta.com
+CATEGORIES:DCG,Contrôle de gestion
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
+ fesseur: Fahd MOUADDIB\n⏱️ Durée: 30 minutes\n🔗 Lien: https://eu01
+ web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68645351
+ 459\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zerone
+ compta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=68645351459
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
 DTSTART;TZID=Europe/Paris:20250920T110000
 DTEND;TZID=Europe/Paris:20250920T113000
-DTSTAMP:20250921T230324Z
+DTSTAMP:20250928T184856Z
 UID:zec-student-85-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -28,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 11 - Coûts complets
 DTSTART;TZID=Europe/Paris:20251018T150000
 DTEND;TZID=Europe/Paris:20251018T160000
-DTSTAMP:20250921T230324Z
+DTSTAMP:20250928T184856Z
 UID:zec-student-111-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -45,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 11 - Coûts complets et variation de stocks
 DTSTART;TZID=Europe/Paris:20251025T110000
 DTEND;TZID=Europe/Paris:20251025T120000
-DTSTAMP:20250921T230324Z
+DTSTAMP:20250928T184856Z
 UID:zec-student-116-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
