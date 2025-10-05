@@ -8,25 +8,9 @@ X-WR-CALNAME:ZEC - DCG Comptabilité
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
-DTSTART;TZID=Europe/Paris:20250831T123000
-DTEND;TZID=Europe/Paris:20250831T130000
-DTSTAMP:20251003T191029Z
-UID:zec-student-84-DCG_Comptabilité@zeroencompta.com
-CATEGORIES:DCG,Comptabilité
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Comptabilité\n👨‍🏫 Professeur
- : Fahd MOUADDIB\n⏱️ Durée: 30 minutes\n🔗 Lien: https://eu01web.zoo
- m.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68645351459\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=68645351459
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
 DTSTART;TZID=Europe/Paris:20250920T110000
 DTEND;TZID=Europe/Paris:20250920T113000
-DTSTAMP:20251003T191029Z
+DTSTAMP:20251005T014819Z
 UID:zec-student-85-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -42,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les fondamentaux de la comptabilité
 DTSTART;TZID=Europe/Paris:20251005T170000
 DTEND;TZID=Europe/Paris:20251005T180000
-DTSTAMP:20251003T191029Z
+DTSTAMP:20251005T014819Z
 UID:zec-student-114-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -58,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Le bilan et le compte de résultat
 DTSTART;TZID=Europe/Paris:20251012T170000
 DTEND;TZID=Europe/Paris:20251012T180000
-DTSTAMP:20251003T191029Z
+DTSTAMP:20251005T014819Z
 UID:zec-student-115-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -74,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les opérations d'achats\, ventes
 DTSTART;TZID=Europe/Paris:20251102T110000
 DTEND;TZID=Europe/Paris:20251102T120000
-DTSTAMP:20251003T191029Z
+DTSTAMP:20251005T014819Z
 UID:zec-student-117-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -90,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les opérations d'achats et de ventes
 DTSTART;TZID=Europe/Paris:20251116T110000
 DTEND;TZID=Europe/Paris:20251116T120000
-DTSTAMP:20251003T191029Z
+DTSTAMP:20251005T014819Z
 UID:zec-student-121-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
