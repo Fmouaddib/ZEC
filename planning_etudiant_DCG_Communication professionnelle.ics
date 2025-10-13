@@ -10,26 +10,9 @@ X-WR-CALNAME:ZEC - DCG Communication professionnelle
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
-DTSTART;TZID=Europe/Paris:20250831T123000
-DTEND;TZID=Europe/Paris:20250831T130000
-DTSTAMP:20250823T143846Z
-UID:zec-student-84-DCG_Communication professionnelle@zeroencompta.com
-CATEGORIES:DCG,Communication professionnelle
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Communication professionnelle\n👨
- ‍🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 30 minutes\n🔗 Lien: h
- ttps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&o
- mn=68645351459\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formati
- on - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=68645351459
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
 DTSTART;TZID=Europe/Paris:20250920T110000
 DTEND;TZID=Europe/Paris:20250920T113000
-DTSTAMP:20250823T143846Z
+DTSTAMP:20251013T221614Z
 UID:zec-student-85-DCG_Communication professionnelle@zeroencompta.com
 CATEGORIES:DCG,Communication professionnelle
 CLASS:PUBLIC

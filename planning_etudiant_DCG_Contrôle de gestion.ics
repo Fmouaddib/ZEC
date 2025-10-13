@@ -9,26 +9,9 @@ X-WR-CALNAME:ZEC - DCG Contrôle de gestion
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
-DTSTART;TZID=Europe/Paris:20250831T123000
-DTEND;TZID=Europe/Paris:20250831T130000
-DTSTAMP:20250928T184856Z
-UID:zec-student-84-DCG_Contrôle de gestion@zeroencompta.com
-CATEGORIES:DCG,Contrôle de gestion
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
- fesseur: Fahd MOUADDIB\n⏱️ Durée: 30 minutes\n🔗 Lien: https://eu01
- web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68645351
- 459\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zerone
- compta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=68645351459
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
 DTSTART;TZID=Europe/Paris:20250920T110000
 DTEND;TZID=Europe/Paris:20250920T113000
-DTSTAMP:20250928T184856Z
+DTSTAMP:20251013T221614Z
 UID:zec-student-85-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -42,37 +25,190 @@ LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 DCG UE 11 - Coûts complets
-DTSTART;TZID=Europe/Paris:20251018T150000
-DTEND;TZID=Europe/Paris:20251018T160000
-DTSTAMP:20250928T184856Z
-UID:zec-student-111-DCG_Contrôle de gestion@zeroencompta.com
-CATEGORIES:DCG,Contrôle de gestion
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
- fesseur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01we
- b.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=6494575768
- 6\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeroneco
- mpta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=64945757686
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 11 - Coûts complets et variation de stocks
 DTSTART;TZID=Europe/Paris:20251025T110000
 DTEND;TZID=Europe/Paris:20251025T120000
-DTSTAMP:20250928T184856Z
+DTSTAMP:20251013T221614Z
 UID:zec-student-116-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
- fesseur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01we
- b.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=6754988624
- 1\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeroneco
- mpta
+ fesseur: Baptiste Didier Laurent\n⏱️ Durée: 60 minutes\n🔗 Lien: ht
+ tps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&om
+ n=67549886241\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formatio
+ n - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=67549886241
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 11 - Méthode ABC
+DTSTART;TZID=Europe/Paris:20251115T110000
+DTEND;TZID=Europe/Paris:20251115T120000
+DTSTAMP:20251013T221614Z
+UID:zec-student-142-DCG_Contrôle de gestion@zeroencompta.com
+CATEGORIES:DCG,Contrôle de gestion
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
+ fesseur: Baptiste Didier Laurent\n⏱️ Durée: 60 minutes\n🔗 Lien: ht
+ tps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&om
+ n=64294924341\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formatio
+ n - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=64294924341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 11 - Probabilités
+DTSTART;TZID=Europe/Paris:20251127T190000
+DTEND;TZID=Europe/Paris:20251127T200000
+DTSTAMP:20251013T221614Z
+UID:zec-student-148-DCG_Contrôle de gestion@zeroencompta.com
+CATEGORIES:DCG,Contrôle de gestion
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
+ fesseur: Baptiste Didier Laurent\n⏱️ Durée: 60 minutes\n🔗 Lien: ht
+ tps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&om
+ n=64979805524\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formatio
+ n - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=64979805524
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 11 - Coûts partiels
+DTSTART;TZID=Europe/Paris:20251211T190000
+DTEND;TZID=Europe/Paris:20251211T200000
+DTSTAMP:20251013T221614Z
+UID:zec-student-143-DCG_Contrôle de gestion@zeroencompta.com
+CATEGORIES:DCG,Contrôle de gestion
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
+ fesseur: Baptiste Didier Laurent\n⏱️ Durée: 60 minutes\n🔗 Lien: ht
+ tps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&om
+ n=67177823180\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formatio
+ n - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=67177823180
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 11 - Coûts partiel Partie 2/2
+DTSTART;TZID=Europe/Paris:20251218T190000
+DTEND;TZID=Europe/Paris:20251218T200000
+DTSTAMP:20251013T221614Z
+UID:zec-student-144-DCG_Contrôle de gestion@zeroencompta.com
+CATEGORIES:DCG,Contrôle de gestion
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
+ fesseur: Baptiste Didier Laurent\n⏱️ Durée: 60 minutes\n🔗 Lien: ht
+ tps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&om
+ n=62035050361\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formatio
+ n - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=62035050361
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 11 - Les écarts Partie 1/2
+DTSTART;TZID=Europe/Paris:20260115T190000
+DTEND;TZID=Europe/Paris:20260115T200000
+DTSTAMP:20251013T221614Z
+UID:zec-student-145-DCG_Contrôle de gestion@zeroencompta.com
+CATEGORIES:DCG,Contrôle de gestion
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
+ fesseur: Baptiste Didier Laurent\n⏱️ Durée: 60 minutes\n🔗 Lien: ht
+ tps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&om
+ n=65030267967\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formatio
+ n - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=65030267967
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 11 - Les Ecarts Partie 2/2
+DTSTART;TZID=Europe/Paris:20260129T190000
+DTEND;TZID=Europe/Paris:20260129T200000
+DTSTAMP:20251013T221614Z
+UID:zec-student-146-DCG_Contrôle de gestion@zeroencompta.com
+CATEGORIES:DCG,Contrôle de gestion
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
+ fesseur: Baptiste Didier Laurent\n⏱️ Durée: 60 minutes\n🔗 Lien: ht
+ tps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&om
+ n=63477721404\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formatio
+ n - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=63477721404
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 11 - Les stocks
+DTSTART;TZID=Europe/Paris:20260205T190000
+DTEND;TZID=Europe/Paris:20260205T200000
+DTSTAMP:20251013T221614Z
+UID:zec-student-149-DCG_Contrôle de gestion@zeroencompta.com
+CATEGORIES:DCG,Contrôle de gestion
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
+ fesseur: Baptiste Didier Laurent\n⏱️ Durée: 60 minutes\n🔗 Lien: ht
+ tps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&om
+ n=61985942774\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formatio
+ n - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=61985942774
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 11 - Programmation linéaire
+DTSTART;TZID=Europe/Paris:20260219T190000
+DTEND;TZID=Europe/Paris:20260219T200000
+DTSTAMP:20251013T221614Z
+UID:zec-student-150-DCG_Contrôle de gestion@zeroencompta.com
+CATEGORIES:DCG,Contrôle de gestion
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
+ fesseur: Baptiste Didier Laurent\n⏱️ Durée: 60 minutes\n🔗 Lien: ht
+ tps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&om
+ n=61053286558\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formatio
+ n - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=61053286558
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 11 - Ordonnacement et échantillons
+DTSTART;TZID=Europe/Paris:20260312T190000
+DTEND;TZID=Europe/Paris:20260312T200000
+DTSTAMP:20251013T221614Z
+UID:zec-student-151-DCG_Contrôle de gestion@zeroencompta.com
+CATEGORIES:DCG,Contrôle de gestion
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
+ fesseur: Baptiste Didier Laurent\n⏱️ Durée: 60 minutes\n🔗 Lien: ht
+ tps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&om
+ n=66353513796\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formatio
+ n - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=66353513796
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 11 - Masse salariale
+DTSTART;TZID=Europe/Paris:20260326T190000
+DTEND;TZID=Europe/Paris:20260326T200000
+DTSTAMP:20251013T221614Z
+UID:zec-student-147-DCG_Contrôle de gestion@zeroencompta.com
+CATEGORIES:DCG,Contrôle de gestion
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
+ fesseur: Baptiste Didier Laurent\n⏱️ Durée: 60 minutes\n🔗 Lien: ht
+ tps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&om
+ n=63962940267\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formatio
+ n - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=63962940267
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

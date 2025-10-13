@@ -8,25 +8,9 @@ X-WR-CALNAME:ZEC - DCG Droit social
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
-DTSTART;TZID=Europe/Paris:20250831T123000
-DTEND;TZID=Europe/Paris:20250831T130000
-DTSTAMP:20250917T232021Z
-UID:zec-student-84-DCG_Droit social@zeroencompta.com
-CATEGORIES:DCG,Droit social
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Droit social\n👨‍🏫 Professeur:
-  Fahd MOUADDIB\n⏱️ Durée: 30 minutes\n🔗 Lien: https://eu01web.zoom
- .us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68645351459\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=68645351459
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
 DTSTART;TZID=Europe/Paris:20250920T110000
 DTEND;TZID=Europe/Paris:20250920T113000
-DTSTAMP:20250917T232021Z
+DTSTAMP:20251013T221614Z
 UID:zec-student-85-DCG_Droit social@zeroencompta.com
 CATEGORIES:DCG,Droit social
 CLASS:PUBLIC
@@ -36,22 +20,6 @@ DESCRIPTION:📚 Formation ZEC - DCG Droit social\n👨‍🏫 Professeur:
  📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=62158528644
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DCG - LIVE OUVERT - Comment réussir le DCG efficacement ?
-DTSTART;TZID=Europe/Paris:20250922T210000
-DTEND;TZID=Europe/Paris:20250922T220000
-DTSTAMP:20250917T232021Z
-UID:zec-student-101-DCG_Droit social@zeroencompta.com
-CATEGORIES:DCG,Droit social
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Droit social\n👨‍🏫 Professeur:
-  Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom
- .us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=64259629993\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=64259629993
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
