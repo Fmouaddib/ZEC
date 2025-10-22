@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
 DTSTART;TZID=Europe/Paris:20250920T110000
 DTEND;TZID=Europe/Paris:20250920T113000
-DTSTAMP:20251022T121641Z
+DTSTAMP:20251022T204302Z
 UID:zec-student-85-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 11 - Coûts complets et variation de stocks
 DTSTART;TZID=Europe/Paris:20251025T110000
 DTEND;TZID=Europe/Paris:20251025T120000
-DTSTAMP:20251022T121641Z
+DTSTAMP:20251022T204302Z
 UID:zec-student-116-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - LIVE OUVERT - Comment réussir le DCG efficacement ?
 DTSTART;TZID=Europe/Paris:20251110T190000
 DTEND;TZID=Europe/Paris:20251110T200000
-DTSTAMP:20251022T121641Z
+DTSTAMP:20251022T204302Z
 UID:zec-student-101-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 11 - Méthode ABC
 DTSTART;TZID=Europe/Paris:20251115T110000
 DTEND;TZID=Europe/Paris:20251115T120000
-DTSTAMP:20251022T121641Z
+DTSTAMP:20251022T204302Z
 UID:zec-student-142-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 11 - Probabilités
 DTSTART;TZID=Europe/Paris:20251127T190000
 DTEND;TZID=Europe/Paris:20251127T200000
-DTSTAMP:20251022T121641Z
+DTSTAMP:20251022T204302Z
 UID:zec-student-148-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 11 - Coûts partiels
 DTSTART;TZID=Europe/Paris:20251211T190000
 DTEND;TZID=Europe/Paris:20251211T200000
-DTSTAMP:20251022T121641Z
+DTSTAMP:20251022T204302Z
 UID:zec-student-143-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 11 - Coûts partiel Partie 2/2
 DTSTART;TZID=Europe/Paris:20251218T190000
 DTEND;TZID=Europe/Paris:20251218T200000
-DTSTAMP:20251022T121641Z
+DTSTAMP:20251022T204302Z
 UID:zec-student-144-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 11 - Les écarts Partie 1/2
 DTSTART;TZID=Europe/Paris:20260115T190000
 DTEND;TZID=Europe/Paris:20260115T200000
-DTSTAMP:20251022T121641Z
+DTSTAMP:20251022T204302Z
 UID:zec-student-145-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 11 - Les Ecarts Partie 2/2
 DTSTART;TZID=Europe/Paris:20260129T190000
 DTEND;TZID=Europe/Paris:20260129T200000
-DTSTAMP:20251022T121641Z
+DTSTAMP:20251022T204302Z
 UID:zec-student-146-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 11 - Les stocks
 DTSTART;TZID=Europe/Paris:20260205T190000
 DTEND;TZID=Europe/Paris:20260205T200000
-DTSTAMP:20251022T121641Z
+DTSTAMP:20251022T204302Z
 UID:zec-student-149-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 11 - Programmation linéaire
 DTSTART;TZID=Europe/Paris:20260219T190000
 DTEND;TZID=Europe/Paris:20260219T200000
-DTSTAMP:20251022T121641Z
+DTSTAMP:20251022T204302Z
 UID:zec-student-150-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 11 - Ordonnacement et échantillons
 DTSTART;TZID=Europe/Paris:20260312T190000
 DTEND;TZID=Europe/Paris:20260312T200000
-DTSTAMP:20251022T121641Z
+DTSTAMP:20251022T204302Z
 UID:zec-student-151-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 11 - Masse salariale
 DTSTART;TZID=Europe/Paris:20260326T190000
 DTEND;TZID=Europe/Paris:20260326T200000
-DTSTAMP:20251022T121641Z
+DTSTAMP:20251022T204302Z
 UID:zec-student-147-DCG_Contrôle de gestion@zeroencompta.com
 CATEGORIES:DCG,Contrôle de gestion
 CLASS:PUBLIC
@@ -226,6 +226,23 @@ DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
   - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=63962940267
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG - Lancement des Révisions Intensives
+DTSTART;TZID=Europe/Paris:20260329T120000
+DTEND;TZID=Europe/Paris:20260329T124500
+DTSTAMP:20251022T204302Z
+UID:zec-student-75-DCG_Contrôle de gestion@zeroencompta.com
+CATEGORIES:DCG,Contrôle de gestion
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Contrôle de gestion\n👨‍🏫 Pro
+ fesseur: Fahd MOUADDIB\n⏱️ Durée: 45 minutes\n🔗 Lien: https://eu01
+ web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=67937005
+ 433\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zerone
+ compta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=67937005433
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
