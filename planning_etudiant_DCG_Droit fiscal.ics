@@ -7,10 +7,42 @@ X-WR-CALDESC:Planning des lives ZEC Formation - DCG Droit fiscal
 X-WR-CALNAME:ZEC - DCG Droit fiscal
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
+DTSTART;TZID=Europe/Paris:20250920T110000
+DTEND;TZID=Europe/Paris:20250920T113000
+DTSTAMP:20251107T234401Z
+UID:zec-student-85-DCG_Droit fiscal@zeroencompta.com
+CATEGORIES:DCG,Droit fiscal
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Droit fiscal\n👨‍🏫 Professeur:
+  Fahd MOUADDIB\n⏱️ Durée: 30 minutes\n🔗 Lien: https://eu01web.zoom
+ .us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=62158528644\n\n
+ 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=62158528644
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 4 - Synthèse IR
+DTSTART;TZID=Europe/Paris:20250927T120000
+DTEND;TZID=Europe/Paris:20250927T130000
+DTSTAMP:20251107T234401Z
+UID:zec-student-105-DCG_Droit fiscal@zeroencompta.com
+CATEGORIES:DCG,Droit fiscal
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Droit fiscal\n👨‍🏫 Professeur:
+  Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom
+ .us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=64197420774\n\n
+ 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=64197420774
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 4 - BIC les charges et les produits
 DTSTART;TZID=Europe/Paris:20251018T140000
 DTEND;TZID=Europe/Paris:20251018T150000
-DTSTAMP:20251031T175227Z
+DTSTAMP:20251107T234401Z
 UID:zec-student-110-DCG_Droit fiscal@zeroencompta.com
 CATEGORIES:DCG,Droit fiscal
 CLASS:PUBLIC
@@ -23,26 +55,10 @@ LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 DCG - LIVE OUVERT - Comment réussir le DCG efficacement ?
-DTSTART;TZID=Europe/Paris:20251110T190000
-DTEND;TZID=Europe/Paris:20251110T200000
-DTSTAMP:20251031T175227Z
-UID:zec-student-101-DCG_Droit fiscal@zeroencompta.com
-CATEGORIES:DCG,Droit fiscal
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Droit fiscal\n👨‍🏫 Professeur:
-  Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom
- .us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=64259629993\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=64259629993
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 4 - BIC Amortissements
 DTSTART;TZID=Europe/Paris:20251112T200000
 DTEND;TZID=Europe/Paris:20251112T210000
-DTSTAMP:20251031T175227Z
+DTSTAMP:20251107T234401Z
 UID:zec-student-119-DCG_Droit fiscal@zeroencompta.com
 CATEGORIES:DCG,Droit fiscal
 CLASS:PUBLIC
@@ -58,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 4 - BIC Provisions
 DTSTART;TZID=Europe/Paris:20251126T200000
 DTEND;TZID=Europe/Paris:20251126T203000
-DTSTAMP:20251031T175227Z
+DTSTAMP:20251107T234401Z
 UID:zec-student-120-DCG_Droit fiscal@zeroencompta.com
 CATEGORIES:DCG,Droit fiscal
 CLASS:PUBLIC
@@ -74,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 4 - Plus-values
 DTSTART;TZID=Europe/Paris:20251210T190000
 DTEND;TZID=Europe/Paris:20251210T200000
-DTSTAMP:20251031T175227Z
+DTSTAMP:20251107T234401Z
 UID:zec-student-122-DCG_Droit fiscal@zeroencompta.com
 CATEGORIES:DCG,Droit fiscal
 CLASS:PUBLIC
@@ -90,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 4 - Plus-values
 DTSTART;TZID=Europe/Paris:20251217T200000
 DTEND;TZID=Europe/Paris:20251217T210000
-DTSTAMP:20251031T175227Z
+DTSTAMP:20251107T234401Z
 UID:zec-student-123-DCG_Droit fiscal@zeroencompta.com
 CATEGORIES:DCG,Droit fiscal
 CLASS:PUBLIC
@@ -106,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 4 - Plus-values
 DTSTART;TZID=Europe/Paris:20260107T200000
 DTEND;TZID=Europe/Paris:20260107T210000
-DTSTAMP:20251031T175227Z
+DTSTAMP:20251107T234401Z
 UID:zec-student-124-DCG_Droit fiscal@zeroencompta.com
 CATEGORIES:DCG,Droit fiscal
 CLASS:PUBLIC
@@ -122,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 4 - Calcul du résultat fiscal
 DTSTART;TZID=Europe/Paris:20260121T200000
 DTEND;TZID=Europe/Paris:20260121T210000
-DTSTAMP:20251031T175227Z
+DTSTAMP:20251107T234401Z
 UID:zec-student-125-DCG_Droit fiscal@zeroencompta.com
 CATEGORIES:DCG,Droit fiscal
 CLASS:PUBLIC
@@ -138,13 +154,13 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 4 - IS charges et produits
 DTSTART;TZID=Europe/Paris:20260211T200000
 DTEND;TZID=Europe/Paris:20260211T210000
-DTSTAMP:20251031T175227Z
+DTSTAMP:20251107T234401Z
 UID:zec-student-126-DCG_Droit fiscal@zeroencompta.com
 CATEGORIES:DCG,Droit fiscal
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DCG Droit fiscal\n👨‍🏫 Professeur:
-  Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom.u
- s/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=69035252181\n\n
+  Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom
+ .us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=69035252181\n\n
  📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=69035252181
@@ -154,13 +170,13 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 4 - IS plus value
 DTSTART;TZID=Europe/Paris:20260225T200000
 DTEND;TZID=Europe/Paris:20260225T210000
-DTSTAMP:20251031T175227Z
+DTSTAMP:20251107T234401Z
 UID:zec-student-127-DCG_Droit fiscal@zeroencompta.com
 CATEGORIES:DCG,Droit fiscal
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DCG Droit fiscal\n👨‍🏫 Professeur:
-  Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom.u
- s/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63558196558\n\n
+  Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom
+ .us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63558196558\n\n
  📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=63558196558
@@ -170,13 +186,13 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 4 - Liquidation IS
 DTSTART;TZID=Europe/Paris:20260311T200000
 DTEND;TZID=Europe/Paris:20260311T210000
-DTSTAMP:20251031T175227Z
+DTSTAMP:20251107T234401Z
 UID:zec-student-128-DCG_Droit fiscal@zeroencompta.com
 CATEGORIES:DCG,Droit fiscal
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DCG Droit fiscal\n👨‍🏫 Professeur:
-  Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom.u
- s/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=65743909021\n\n
+  Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom
+ .us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=65743909021\n\n
  📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=65743909021
@@ -186,13 +202,13 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 4 - Synthèse TVA déductible et collectée
 DTSTART;TZID=Europe/Paris:20260318T200000
 DTEND;TZID=Europe/Paris:20260318T210000
-DTSTAMP:20251031T175227Z
+DTSTAMP:20251107T234401Z
 UID:zec-student-129-DCG_Droit fiscal@zeroencompta.com
 CATEGORIES:DCG,Droit fiscal
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DCG Droit fiscal\n👨‍🏫 Professeur:
-  Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom.u
- s/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=65475740418\n\n
+  Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom
+ .us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=65475740418\n\n
  📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=65475740418
@@ -202,13 +218,13 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 4 - Synthèse régularisation
 DTSTART;TZID=Europe/Paris:20260325T200000
 DTEND;TZID=Europe/Paris:20260325T210000
-DTSTAMP:20251031T175227Z
+DTSTAMP:20251107T234401Z
 UID:zec-student-130-DCG_Droit fiscal@zeroencompta.com
 CATEGORIES:DCG,Droit fiscal
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DCG Droit fiscal\n👨‍🏫 Professeur:
-  Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom.u
- s/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68483405496\n\n
+  Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom
+ .us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68483405496\n\n
  📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=68483405496
@@ -218,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Lancement des Révisions Intensives
 DTSTART;TZID=Europe/Paris:20260329T120000
 DTEND;TZID=Europe/Paris:20260329T124500
-DTSTAMP:20251031T175227Z
+DTSTAMP:20251107T234401Z
 UID:zec-student-75-DCG_Droit fiscal@zeroencompta.com
 CATEGORIES:DCG,Droit fiscal
 CLASS:PUBLIC
