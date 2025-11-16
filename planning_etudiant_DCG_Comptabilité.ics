@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les opérations d'achats\, ventes
 DTSTART;TZID=Europe/Paris:20251102T110000
 DTEND;TZID=Europe/Paris:20251102T120000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180018Z
 UID:zec-student-117-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les opérations d'achats et de ventes
 DTSTART;TZID=Europe/Paris:20251116T110000
 DTEND;TZID=Europe/Paris:20251116T120000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180018Z
 UID:zec-student-121-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les opérations de trésorerie
 DTSTART;TZID=Europe/Paris:20251206T110000
 DTEND;TZID=Europe/Paris:20251206T120000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180018Z
 UID:zec-student-153-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les mecanismes de la TVA
 DTSTART;TZID=Europe/Paris:20251213T110000
 DTEND;TZID=Europe/Paris:20251213T120000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180018Z
 UID:zec-student-163-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -75,7 +75,7 @@ SUMMARY:🎓 DCG UE 9 - Relation avec le personnel et opérations de finan
  cement (Chap 6 et 7)
 DTSTART;TZID=Europe/Paris:20260110T110000
 DTEND;TZID=Europe/Paris:20260110T120000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180018Z
 UID:zec-student-164-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -92,7 +92,7 @@ SUMMARY:🎓 DCG UE 9 - Les opérations d'investissement et de placement (
  Chap 8)
 DTSTART;TZID=Europe/Paris:20260124T110000
 DTEND;TZID=Europe/Paris:20260124T120000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180018Z
 UID:zec-student-165-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les amortissements
 DTSTART;TZID=Europe/Paris:20260214T110000
 DTEND;TZID=Europe/Paris:20260214T120000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180018Z
 UID:zec-student-166-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les dépréciations et cessions d'immobilisations
 DTSTART;TZID=Europe/Paris:20260228T110000
 DTEND;TZID=Europe/Paris:20260228T120000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180018Z
 UID:zec-student-167-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -141,7 +141,7 @@ SUMMARY:🎓 DCG UE 9 - Les stocks et provisions\, dépréciations des aut
  res actifs (Chap 10 et 11)
 DTSTART;TZID=Europe/Paris:20260307T110000
 DTEND;TZID=Europe/Paris:20260307T120000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180018Z
 UID:zec-student-168-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -158,7 +158,7 @@ SUMMARY:🎓 DCG UE 9 - Cession et dépréciation des titres financiers et
   créances et dettes en monnaie étrangère (Chap 13 et 14)
 DTSTART;TZID=Europe/Paris:20260321T110000
 DTEND;TZID=Europe/Paris:20260321T120000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180018Z
 UID:zec-student-169-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les opérations de clôture (Chap 15)
 DTSTART;TZID=Europe/Paris:20260328T110000
 DTEND;TZID=Europe/Paris:20260328T120000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180018Z
 UID:zec-student-170-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Lancement des Révisions Intensives
 DTSTART;TZID=Europe/Paris:20260329T120000
 DTEND;TZID=Europe/Paris:20260329T124500
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180018Z
 UID:zec-student-75-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC

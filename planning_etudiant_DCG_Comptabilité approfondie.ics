@@ -13,7 +13,7 @@ SUMMARY:🎓 DCG UE 10 - Remise à niveau UE 9 - Les opérations de financ
  ement (emprunts\, subventions\, ...)
 DTSTART;TZID=Europe/Paris:20251102T120000
 DTEND;TZID=Europe/Paris:20251102T130000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180019Z
 UID:zec-student-108-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Remise à niveau UE 9
 DTSTART;TZID=Europe/Paris:20251108T110000
 DTEND;TZID=Europe/Paris:20251108T120000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180019Z
 UID:zec-student-109-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Immobilisations corporelles
 DTSTART;TZID=Europe/Paris:20251201T200000
 DTEND;TZID=Europe/Paris:20251201T210000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180019Z
 UID:zec-student-131-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Immobilisations incoporelles
 DTSTART;TZID=Europe/Paris:20251215T200000
 DTEND;TZID=Europe/Paris:20251215T210000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180019Z
 UID:zec-student-132-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Immobilisations financières
 DTSTART;TZID=Europe/Paris:20260105T200000
 DTEND;TZID=Europe/Paris:20260105T210000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180019Z
 UID:zec-student-133-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Stocks
 DTSTART;TZID=Europe/Paris:20260119T200000
 DTEND;TZID=Europe/Paris:20260119T210000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180019Z
 UID:zec-student-134-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Constitution de sociétés
 DTSTART;TZID=Europe/Paris:20260209T200000
 DTEND;TZID=Europe/Paris:20260209T210000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180019Z
 UID:zec-student-135-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Variation du capital
 DTSTART;TZID=Europe/Paris:20260223T200000
 DTEND;TZID=Europe/Paris:20260223T210000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180019Z
 UID:zec-student-136-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Emprunts obligataires
 DTSTART;TZID=Europe/Paris:20260309T200000
 DTEND;TZID=Europe/Paris:20260309T210000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180019Z
 UID:zec-student-137-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Contrat à long terme
 DTSTART;TZID=Europe/Paris:20260316T200000
 DTEND;TZID=Europe/Paris:20260316T210000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180019Z
 UID:zec-student-138-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -183,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Subventions/Abandons de créances
 DTSTART;TZID=Europe/Paris:20260323T200000
 DTEND;TZID=Europe/Paris:20260323T210000
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180019Z
 UID:zec-student-139-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Lancement des Révisions Intensives
 DTSTART;TZID=Europe/Paris:20260329T120000
 DTEND;TZID=Europe/Paris:20260329T124500
-DTSTAMP:20251112T231405Z
+DTSTAMP:20251116T180019Z
 UID:zec-student-75-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
