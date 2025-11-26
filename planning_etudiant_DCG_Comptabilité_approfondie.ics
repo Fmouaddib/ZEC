@@ -1,0 +1,457 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZEC Formation - DCG Comptabilité approfondie//Planning Etudiant
+  v1.0//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Planning des lives ZEC Formation - DCG Comptabilité approfon
+ die
+X-WR-CALNAME:ZEC - DCG Comptabilité approfondie
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
+DTSTART;TZID=Europe/Paris:20250920T110000
+DTEND;TZID=Europe/Paris:20250920T113000
+DTSTAMP:20251126T230309Z
+UID:zec-student-85-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 30 minutes\n🔗 Lien: http
+ s://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=
+ 62158528644\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation 
+ - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=62158528644
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Remise à niveau UE 9 - Immobilisations et amorti
+ ssements
+DTSTART;TZID=Europe/Paris:20251004T110000
+DTEND;TZID=Europe/Paris:20251004T120000
+DTSTAMP:20251126T230309Z
+UID:zec-student-106-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: http
+ s://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=
+ 69603214317\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation 
+ - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=69603214317
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Remise à niveau UE 9 - Opérations de clôture
+DTSTART;TZID=Europe/Paris:20251011T110000
+DTEND;TZID=Europe/Paris:20251011T120000
+DTSTAMP:20251126T230309Z
+UID:zec-student-107-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68
+ 038930566\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=68038930566
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Remise à niveau UE 9 - Les opérations de financ
+ ement (emprunts\, subventions\, ...)
+DTSTART;TZID=Europe/Paris:20251102T120000
+DTEND;TZID=Europe/Paris:20251102T130000
+DTSTAMP:20251126T230309Z
+UID:zec-student-108-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: http
+ s://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=
+ 66319508287\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation 
+ - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=66319508287
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Remise à niveau UE 9
+DTSTART;TZID=Europe/Paris:20251108T110000
+DTEND;TZID=Europe/Paris:20251108T120000
+DTSTAMP:20251126T230309Z
+UID:zec-student-109-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: http
+ s://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=
+ 62027576398\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation 
+ - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=62027576398
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Modification du plan d'amortissement
+DTSTART;TZID=Europe/Paris:20251123T110000
+DTEND;TZID=Europe/Paris:20251123T120000
+DTSTAMP:20251126T230309Z
+UID:zec-student-243-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: http
+ s://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=
+ 62765273464\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation 
+ - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=62765273464
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Immobilisations corporelles
+DTSTART;TZID=Europe/Paris:20251201T200000
+DTEND;TZID=Europe/Paris:20251201T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-131-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=64
+ 203112087\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=64203112087
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Immobilisations incoporelles
+DTSTART;TZID=Europe/Paris:20251215T200000
+DTEND;TZID=Europe/Paris:20251215T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-132-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=67
+ 715822352\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=67715822352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Immobilisations financières
+DTSTART;TZID=Europe/Paris:20260105T200000
+DTEND;TZID=Europe/Paris:20260105T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-133-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=61
+ 648157010\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=61648157010
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Stocks
+DTSTART;TZID=Europe/Paris:20260119T200000
+DTEND;TZID=Europe/Paris:20260119T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-134-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63
+ 192696386\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=63192696386
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Constitution de sociétés
+DTSTART;TZID=Europe/Paris:20260209T200000
+DTEND;TZID=Europe/Paris:20260209T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-135-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63
+ 751511797\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=63751511797
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Variation du capital
+DTSTART;TZID=Europe/Paris:20260223T200000
+DTEND;TZID=Europe/Paris:20260223T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-136-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68
+ 006054942\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=68006054942
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Emprunts obligataires
+DTSTART;TZID=Europe/Paris:20260309T200000
+DTEND;TZID=Europe/Paris:20260309T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-137-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: http
+ s://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=
+ 67092965494\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation 
+ - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=67092965494
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Contrat à long terme
+DTSTART;TZID=Europe/Paris:20260316T200000
+DTEND;TZID=Europe/Paris:20260316T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-138-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=66
+ 640053302\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=66640053302
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - Subventions/Abandons de créances
+DTSTART;TZID=Europe/Paris:20260323T200000
+DTEND;TZID=Europe/Paris:20260323T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-139-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=66
+ 667736328\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=66667736328
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG - Lancement des Révisions Intensives
+DTSTART;TZID=Europe/Paris:20260329T120000
+DTEND;TZID=Europe/Paris:20260329T124500
+DTSTAMP:20251126T230309Z
+UID:zec-student-75-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Fahd MOUADDIB\n⏱️ Durée: 45 minutes\n🔗 Lien: http
+ s://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=
+ 67937005433\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation 
+ - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=67937005433
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - RI - Immobilisations corporelles
+DTSTART;TZID=Europe/Paris:20260401T200000
+DTEND;TZID=Europe/Paris:20260401T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-279-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=61
+ 453994216\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=61453994216
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - RI - Immobilisations incorporelles
+DTSTART;TZID=Europe/Paris:20260408T200000
+DTEND;TZID=Europe/Paris:20260408T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-280-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=65
+ 284602906\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=65284602906
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - RI - Immobilisations financières
+DTSTART;TZID=Europe/Paris:20260410T200000
+DTEND;TZID=Europe/Paris:20260410T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-281-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=67
+ 557196444\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=67557196444
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - RI - Stocks
+DTSTART;TZID=Europe/Paris:20260415T200000
+DTEND;TZID=Europe/Paris:20260415T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-282-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=64
+ 697017463\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=64697017463
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - RI - Constitution de sociétés
+DTSTART;TZID=Europe/Paris:20260422T200000
+DTEND;TZID=Europe/Paris:20260422T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-283-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=66
+ 163428043\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=66163428043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - RI - Variation du capital
+DTSTART;TZID=Europe/Paris:20260424T200000
+DTEND;TZID=Europe/Paris:20260424T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-284-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68
+ 220977143\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=68220977143
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - RI - Emprunts obligataires
+DTSTART;TZID=Europe/Paris:20260429T200000
+DTEND;TZID=Europe/Paris:20260429T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-285-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63
+ 015328150\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=63015328150
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - RI - Subventions et abandons de créances
+DTSTART;TZID=Europe/Paris:20260506T200000
+DTEND;TZID=Europe/Paris:20260506T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-286-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=66
+ 006688943\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=66006688943
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - RI - Opérations particulières de clôture\, cr
+ éances et dettes
+DTSTART;TZID=Europe/Paris:20260513T200000
+DTEND;TZID=Europe/Paris:20260513T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-287-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=62
+ 574218572\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=62574218572
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG UE 10 - RI - Entites spécifiques\, abonnements des charg
+ es et produits
+DTSTART;TZID=Europe/Paris:20260520T200000
+DTEND;TZID=Europe/Paris:20260520T210000
+DTSTAMP:20251126T230309Z
+UID:zec-student-288-DCG_Comptabilité approfondie@zeroencompta.com
+CATEGORIES:DCG,Comptabilité approfondie
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Comptabilité approfondie\n👨‍
+ 🏫 Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https:
+ //eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=64
+ 257365528\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - 
+ Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=64257365528
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
