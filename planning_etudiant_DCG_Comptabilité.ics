@@ -7,112 +7,16 @@ X-WR-CALDESC:Planning des lives ZEC Formation - DCG Comptabilité
 X-WR-CALNAME:ZEC - DCG Comptabilité
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:🎓 DCG - Bienvenue aux nouveaux inscrits
-DTSTART;TZID=Europe/Paris:20250920T110000
-DTEND;TZID=Europe/Paris:20250920T113000
-DTSTAMP:20251126T230309Z
-UID:zec-student-85-DCG_Comptabilité@zeroencompta.com
-CATEGORIES:DCG,Comptabilité
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Comptabilité\n👨‍🏫 Professeur
- : Fahd MOUADDIB\n⏱️ Durée: 30 minutes\n🔗 Lien: https://eu01web.zoo
- m.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=62158528644\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=62158528644
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DCG UE 9 - Les fondamentaux de la comptabilité
-DTSTART;TZID=Europe/Paris:20251005T170000
-DTEND;TZID=Europe/Paris:20251005T180000
-DTSTAMP:20251126T230309Z
-UID:zec-student-114-DCG_Comptabilité@zeroencompta.com
-CATEGORIES:DCG,Comptabilité
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Comptabilité\n👨‍🏫 Professeur
- : Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom.
- us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68522228100\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=68522228100
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DCG UE 9 - Le bilan et le compte de résultat
-DTSTART;TZID=Europe/Paris:20251012T170000
-DTEND;TZID=Europe/Paris:20251012T180000
-DTSTAMP:20251126T230309Z
-UID:zec-student-115-DCG_Comptabilité@zeroencompta.com
-CATEGORIES:DCG,Comptabilité
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Comptabilité\n👨‍🏫 Professeur
- : Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom.
- us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=69008529455\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=69008529455
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DCG UE 9 - Les opérations d'achats\, ventes
-DTSTART;TZID=Europe/Paris:20251102T110000
-DTEND;TZID=Europe/Paris:20251102T120000
-DTSTAMP:20251126T230309Z
-UID:zec-student-117-DCG_Comptabilité@zeroencompta.com
-CATEGORIES:DCG,Comptabilité
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Comptabilité\n👨‍🏫 Professeur
- : Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoo
- m.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=65231224015\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=65231224015
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DCG UE 9 - Les opérations d'achats et de ventes
-DTSTART;TZID=Europe/Paris:20251116T110000
-DTEND;TZID=Europe/Paris:20251116T120000
-DTSTAMP:20251126T230309Z
-UID:zec-student-121-DCG_Comptabilité@zeroencompta.com
-CATEGORIES:DCG,Comptabilité
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Comptabilité\n👨‍🏫 Professeur
- : Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoo
- m.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=66798542564\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=66798542564
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DCG UE 9 - Les achats ventes Partie 3
-DTSTART;TZID=Europe/Paris:20251123T120000
-DTEND;TZID=Europe/Paris:20251123T130000
-DTSTAMP:20251126T230309Z
-UID:zec-student-242-DCG_Comptabilité@zeroencompta.com
-CATEGORIES:DCG,Comptabilité
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Comptabilité\n👨‍🏫 Professeur
- : Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoo
- m.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68847693329\n\n
- 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=68847693329
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les opérations de trésorerie
 DTSTART;TZID=Europe/Paris:20251206T110000
 DTEND;TZID=Europe/Paris:20251206T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-153-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DCG Comptabilité\n👨‍🏫 Professeur
- : Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom.
- us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63667040861\n\n
+ : Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoo
+ m.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63667040861\n\n
  📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=63667040861
@@ -122,13 +26,13 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les mecanismes de la TVA
 DTSTART;TZID=Europe/Paris:20251213T110000
 DTEND;TZID=Europe/Paris:20251213T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-163-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
 DESCRIPTION:📚 Formation ZEC - DCG Comptabilité\n👨‍🏫 Professeur
- : Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom.
- us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68271737171\n\n
+ : Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoo
+ m.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68271737171\n\n
  📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=68271737171
@@ -139,7 +43,7 @@ SUMMARY:🎓 DCG UE 9 - Relation avec le personnel et opérations de finan
  cement (Chap 6 et 7)
 DTSTART;TZID=Europe/Paris:20260110T110000
 DTEND;TZID=Europe/Paris:20260110T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-164-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -156,7 +60,7 @@ SUMMARY:🎓 DCG UE 9 - Les opérations d'investissement et de placement (
  Chap 8)
 DTSTART;TZID=Europe/Paris:20260124T110000
 DTEND;TZID=Europe/Paris:20260124T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-165-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -172,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les amortissements
 DTSTART;TZID=Europe/Paris:20260214T110000
 DTEND;TZID=Europe/Paris:20260214T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-166-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -188,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les dépréciations et cessions d'immobilisations
 DTSTART;TZID=Europe/Paris:20260228T110000
 DTEND;TZID=Europe/Paris:20260228T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-167-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -205,7 +109,7 @@ SUMMARY:🎓 DCG UE 9 - Les stocks et provisions\, dépréciations des aut
  res actifs (Chap 10 et 11)
 DTSTART;TZID=Europe/Paris:20260307T110000
 DTEND;TZID=Europe/Paris:20260307T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-168-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -222,7 +126,7 @@ SUMMARY:🎓 DCG UE 9 - Cession et dépréciation des titres financiers et
   créances et dettes en monnaie étrangère (Chap 13 et 14)
 DTSTART;TZID=Europe/Paris:20260321T110000
 DTEND;TZID=Europe/Paris:20260321T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-169-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -238,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - Les opérations de clôture (Chap 15)
 DTSTART;TZID=Europe/Paris:20260328T110000
 DTEND;TZID=Europe/Paris:20260328T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-170-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -254,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Lancement des Révisions Intensives
 DTSTART;TZID=Europe/Paris:20260329T120000
 DTEND;TZID=Europe/Paris:20260329T124500
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-75-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -270,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - RI - Opérations d'achats et de ventes
 DTSTART;TZID=Europe/Paris:20260404T110000
 DTEND;TZID=Europe/Paris:20260404T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-309-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -286,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - RI - Opérations d'achats et de ventes
 DTSTART;TZID=Europe/Paris:20260407T200000
 DTEND;TZID=Europe/Paris:20260407T210000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-310-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -302,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - RI - Opérations de trésorerie
 DTSTART;TZID=Europe/Paris:20260411T110000
 DTEND;TZID=Europe/Paris:20260411T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-311-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -318,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - RI - Mécanismes de la TVA
 DTSTART;TZID=Europe/Paris:20260414T200000
 DTEND;TZID=Europe/Paris:20260414T210000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-312-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -334,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - RI - Relation avec le personnel
 DTSTART;TZID=Europe/Paris:20260418T110000
 DTEND;TZID=Europe/Paris:20260418T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-313-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -350,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - RI - Opérations de financement
 DTSTART;TZID=Europe/Paris:20260421T200000
 DTEND;TZID=Europe/Paris:20260421T210000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-314-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -366,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - RI - Opérations d'investissement
 DTSTART;TZID=Europe/Paris:20260425T110000
 DTEND;TZID=Europe/Paris:20260425T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-315-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -382,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - RI - Opérations d'inventaires
 DTSTART;TZID=Europe/Paris:20260502T110000
 DTEND;TZID=Europe/Paris:20260502T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-316-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -398,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - RI - Opérations d'inventaires
 DTSTART;TZID=Europe/Paris:20260509T110000
 DTEND;TZID=Europe/Paris:20260509T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-317-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
@@ -414,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 9 - RI - Opérations d'inventaires
 DTSTART;TZID=Europe/Paris:20260516T110000
 DTEND;TZID=Europe/Paris:20260516T120000
-DTSTAMP:20251126T230309Z
+DTSTAMP:20251202T231023Z
 UID:zec-student-318-DCG_Comptabilité@zeroencompta.com
 CATEGORIES:DCG,Comptabilité
 CLASS:PUBLIC
