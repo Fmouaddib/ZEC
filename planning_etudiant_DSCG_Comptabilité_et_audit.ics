@@ -1,0 +1,385 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZEC Formation - DSCG Comptabilité et audit//Planning Etudiant v
+ 1.0//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Planning des lives ZEC Formation - DSCG Comptabilité et audi
+ t
+X-WR-CALNAME:ZEC - DSCG Comptabilité et audit
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - Questions/réponses et méthodologie
+DTSTART;TZID=Europe/Paris:20260108T200000
+DTEND;TZID=Europe/Paris:20260108T210000
+DTSTAMP:20251210T223710Z
+UID:zec-student-192-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu0
+ 1web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=6656751
+ 6522\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeron
+ ecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=66567516522
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - Questions/réponses et méthodologie
+DTSTART;TZID=Europe/Paris:20260305T200000
+DTEND;TZID=Europe/Paris:20260305T210000
+DTSTAMP:20251210T223710Z
+UID:zec-student-193-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu0
+ 1web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=6811517
+ 2755\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeron
+ ecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=68115172755
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - Questions/réponses et méthodologie
+DTSTART;TZID=Europe/Paris:20260508T200000
+DTEND;TZID=Europe/Paris:20260508T210000
+DTSTAMP:20251210T223710Z
+UID:zec-student-194-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu0
+ 1web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=6586658
+ 9403\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeron
+ ecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=65866589403
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - FUSION
+DTSTART;TZID=Europe/Paris:20260622T193000
+DTEND;TZID=Europe/Paris:20260622T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-182-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Gaël-Teiki CLOLUS\n⏱️ Durée: 120 minutes\n🔗 Lien: htt
+ ps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn
+ =68708503660\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation
+  - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=68708503660
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - FUSION
+DTSTART;TZID=Europe/Paris:20260629T193000
+DTEND;TZID=Europe/Paris:20260629T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-183-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Gaël-Teiki CLOLUS\n⏱️ Durée: 120 minutes\n🔗 Lien: htt
+ ps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn
+ =67903880920\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation
+  - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=67903880920
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - AUDIT
+DTSTART;TZID=Europe/Paris:20260706T193000
+DTEND;TZID=Europe/Paris:20260706T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-184-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Gaël-Teiki CLOLUS\n⏱️ Durée: 120 minutes\n🔗 Lien: htt
+ ps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn
+ =67595698053\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation
+  - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=67595698053
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - CONSOLIDATION
+DTSTART;TZID=Europe/Paris:20260716T193000
+DTEND;TZID=Europe/Paris:20260716T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-173-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Simon MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu
+ 01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=632614
+ 86217\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zero
+ necompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=63261486217
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - IFRS
+DTSTART;TZID=Europe/Paris:20260720T193000
+DTEND;TZID=Europe/Paris:20260720T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-185-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Gaël-Teiki CLOLUS\n⏱️ Durée: 120 minutes\n🔗 Lien: htt
+ ps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn
+ =64651406144\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation
+  - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=64651406144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - IFRS
+DTSTART;TZID=Europe/Paris:20260723T193000
+DTEND;TZID=Europe/Paris:20260723T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-178-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Simon MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu
+ 01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=649486
+ 94876\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zero
+ necompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=64948694876
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - FUSION
+DTSTART;TZID=Europe/Paris:20260727T193000
+DTEND;TZID=Europe/Paris:20260727T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-186-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Gaël-Teiki CLOLUS\n⏱️ Durée: 120 minutes\n🔗 Lien: htt
+ ps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn
+ =69356686751\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation
+  - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=69356686751
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - CONSOLIDATION
+DTSTART;TZID=Europe/Paris:20260827T193000
+DTEND;TZID=Europe/Paris:20260827T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-175-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Simon MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu
+ 01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=636669
+ 25974\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zero
+ necompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=63666925974
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - IFRS
+DTSTART;TZID=Europe/Paris:20260831T193000
+DTEND;TZID=Europe/Paris:20260831T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-187-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Gaël-Teiki CLOLUS\n⏱️ Durée: 120 minutes\n🔗 Lien: htt
+ ps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn
+ =65525882242\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation
+  - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=65525882242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - AUDIT
+DTSTART;TZID=Europe/Paris:20260907T193000
+DTEND;TZID=Europe/Paris:20260907T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-188-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Gaël-Teiki CLOLUS\n⏱️ Durée: 120 minutes\n🔗 Lien: htt
+ ps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn
+ =64789086883\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation
+  - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=64789086883
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - CONSOLIDATION
+DTSTART;TZID=Europe/Paris:20260910T193000
+DTEND;TZID=Europe/Paris:20260910T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-176-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Simon MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu
+ 01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=657147
+ 90727\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zero
+ necompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=65714790727
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - AUDIT
+DTSTART;TZID=Europe/Paris:20260914T193000
+DTEND;TZID=Europe/Paris:20260914T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-189-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Gaël-Teiki CLOLUS\n⏱️ Durée: 120 minutes\n🔗 Lien: htt
+ ps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn
+ =64695585238\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation
+  - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=64695585238
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - CONSOLIDATION
+DTSTART;TZID=Europe/Paris:20260917T193000
+DTEND;TZID=Europe/Paris:20260917T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-177-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Simon MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu
+ 01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=698594
+ 65158\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zero
+ necompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=69859465158
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - CONSOLIDATION
+DTSTART;TZID=Europe/Paris:20260924T193000
+DTEND;TZID=Europe/Paris:20260924T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-174-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Simon MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu
+ 01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=681693
+ 02929\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zero
+ necompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=68169302929
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - CONSOLIDATION
+DTSTART;TZID=Europe/Paris:20261001T193000
+DTEND;TZID=Europe/Paris:20261001T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-179-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Simon MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu
+ 01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=635355
+ 28310\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zero
+ necompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=63535528310
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - FUSION
+DTSTART;TZID=Europe/Paris:20261005T193000
+DTEND;TZID=Europe/Paris:20261005T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-190-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Gaël-Teiki CLOLUS\n⏱️ Durée: 120 minutes\n🔗 Lien: htt
+ ps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn
+ =64622758687\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation
+  - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=64622758687
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - CONSOLIDATION
+DTSTART;TZID=Europe/Paris:20261008T193000
+DTEND;TZID=Europe/Paris:20261008T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-180-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Simon MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu
+ 01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=625306
+ 43453\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zero
+ necompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=62530643453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - AUDIT
+DTSTART;TZID=Europe/Paris:20261012T193000
+DTEND;TZID=Europe/Paris:20261012T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-191-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Gaël-Teiki CLOLUS\n⏱️ Durée: 120 minutes\n🔗 Lien: htt
+ ps://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn
+ =63871555898\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation
+  - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=63871555898
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 4 - CONSOLIDATION
+DTSTART;TZID=Europe/Paris:20261015T193000
+DTEND;TZID=Europe/Paris:20261015T213000
+DTSTAMP:20251210T223710Z
+UID:zec-student-181-DSCG_Comptabilité et audit@zeroencompta.com
+CATEGORIES:DSCG,Comptabilité et audit
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Comptabilité et audit\n👨‍🏫 
+ Professeur: Simon MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu
+ 01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=637028
+ 97152\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zero
+ necompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=63702897152
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
