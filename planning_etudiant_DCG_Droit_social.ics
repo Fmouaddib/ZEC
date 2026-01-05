@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZEC Formation - DCG Droit social//Planning Etudiant v1.0//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Planning des lives ZEC Formation - DCG Droit social
+X-WR-CALNAME:ZEC - DCG Droit social
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:🎓 DCG - Lancement des Révisions Intensives
+DTSTART;TZID=Europe/Paris:20260329T120000
+DTEND;TZID=Europe/Paris:20260329T124500
+DTSTAMP:20251213T031904Z
+UID:zec-student-75-DCG_Droit social@zeroencompta.com
+CATEGORIES:DCG,Droit social
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Droit social\n👨‍🏫 Professeur:
+  Fahd MOUADDIB\n⏱️ Durée: 45 minutes\n🔗 Lien: https://eu01web.zoom
+ .us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=67937005433\n\n
+ 📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=67937005433
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
