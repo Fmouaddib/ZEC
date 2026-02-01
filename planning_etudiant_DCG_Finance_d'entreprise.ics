@@ -8,27 +8,10 @@ X-WR-CALDESC:Planning des lives ZEC Formation - DCG Finance d'entreprise
 X-WR-CALNAME:ZEC - DCG Finance d'entreprise
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:🎓 DCG UE 6 - Analyse des SIG
-DTSTART;TZID=Europe/Paris:20251204T193000
-DTEND;TZID=Europe/Paris:20251204T203000
-DTSTAMP:20260114T185937Z
-UID:zec-student-319-DCG_Finance d'entreprise@zeroencompta.com
-CATEGORIES:DCG,Finance d'entreprise
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Finance d'entreprise\n👨‍🏫 Pro
- fesseur: Simon MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01we
- b.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=6316340915
- 1\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeroneco
- mpta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=63163409151
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Analyse du bilan fonctionnel
 DTSTART;TZID=Europe/Paris:20260114T193000
 DTEND;TZID=Europe/Paris:20260114T203000
-DTSTAMP:20260114T185937Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-321-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -46,7 +29,7 @@ SUMMARY:🎓 DCG UE 6 - Risque d'exploitation\, rentabilité financière e
  t économique
 DTSTART;TZID=Europe/Paris:20260128T193000
 DTEND;TZID=Europe/Paris:20260128T203000
-DTSTAMP:20260114T185937Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-322-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -62,9 +45,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Construction et compréhension du tableau de finan
  cement
-DTSTART;TZID=Europe/Paris:20260212T193000
-DTEND;TZID=Europe/Paris:20260212T203000
-DTSTAMP:20260114T185937Z
+DTSTART;TZID=Europe/Paris:20260205T193000
+DTEND;TZID=Europe/Paris:20260205T203000
+DTSTAMP:20260201T214124Z
 UID:zec-student-323-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -78,11 +61,28 @@ LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎓 DCG - Salon Méthode et stratégie DCG
+DTSTART;TZID=Europe/Paris:20260210T200000
+DTEND;TZID=Europe/Paris:20260210T210000
+DTSTAMP:20260201T214124Z
+UID:zec-student-335-DCG_Finance d'entreprise@zeroencompta.com
+CATEGORIES:DCG,Finance d'entreprise
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Finance d'entreprise\n👨‍🏫 Pro
+ fesseur: Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01
+ web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=61269133
+ 353\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zerone
+ compta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=61269133353
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Construction et compréhension du tableau de flux 
  de trésorerie
 DTSTART;TZID=Europe/Paris:20260226T193000
 DTEND;TZID=Europe/Paris:20260226T203000
-DTSTAMP:20260114T185937Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-324-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -96,10 +96,27 @@ LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎓 DCG - Salon Méthode et stratégie DCG
+DTSTART;TZID=Europe/Paris:20260303T200000
+DTEND;TZID=Europe/Paris:20260303T204500
+DTSTAMP:20260201T214124Z
+UID:zec-student-336-DCG_Finance d'entreprise@zeroencompta.com
+CATEGORIES:DCG,Finance d'entreprise
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Finance d'entreprise\n👨‍🏫 Pro
+ fesseur: Fahd MOUADDIB\n⏱️ Durée: 45 minutes\n🔗 Lien: https://eu01
+ web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68502859
+ 238\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zerone
+ compta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=68502859238
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Analyse du BFRE normatif
 DTSTART;TZID=Europe/Paris:20260304T193000
 DTEND;TZID=Europe/Paris:20260304T203000
-DTSTAMP:20260114T185937Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-325-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -116,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Projet d'investissement
 DTSTART;TZID=Europe/Paris:20260319T193000
 DTEND;TZID=Europe/Paris:20260319T203000
-DTSTAMP:20260114T185937Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-326-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -131,9 +148,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 DCG - Lancement des Révisions Intensives
-DTSTART;TZID=Europe/Paris:20260329T120000
-DTEND;TZID=Europe/Paris:20260329T124500
-DTSTAMP:20260114T185937Z
+DTSTART;TZID=Europe/Paris:20260331T120000
+DTEND;TZID=Europe/Paris:20260331T124500
+DTSTAMP:20260201T214124Z
 UID:zec-student-75-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -150,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Modes de financement et bilan financier
 DTSTART;TZID=Europe/Paris:20260402T203000
 DTEND;TZID=Europe/Paris:20260402T213000
-DTSTAMP:20260114T185937Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-327-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -167,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Budget de trésorerie
 DTSTART;TZID=Europe/Paris:20260416T203000
 DTEND;TZID=Europe/Paris:20260416T213000
-DTSTAMP:20260114T185937Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-328-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -184,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Gestion de la trésorerie déficitaire
 DTSTART;TZID=Europe/Paris:20260507T203000
 DTEND;TZID=Europe/Paris:20260507T213000
-DTSTAMP:20260114T185937Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-329-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -201,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Placement des excédents de trésorerie
 DTSTART;TZID=Europe/Paris:20260514T203000
 DTEND;TZID=Europe/Paris:20260514T213000
-DTSTAMP:20260114T185937Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-330-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC

@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZEC Formation - DCG Économie contemporaine//Planning Etudiant v
+ 1.0//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Planning des lives ZEC Formation - DCG Économie contemporain
+ e
+X-WR-CALNAME:ZEC - DCG Économie contemporaine
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:🎓 DCG - Salon Méthode et stratégie DCG
+DTSTART;TZID=Europe/Paris:20260210T200000
+DTEND;TZID=Europe/Paris:20260210T210000
+DTSTAMP:20260201T214124Z
+UID:zec-student-335-DCG_Économie contemporaine@zeroencompta.com
+CATEGORIES:DCG,Économie contemporaine
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Économie contemporaine\n👨‍🏫 
+ Professeur: Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://e
+ u01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=61269
+ 133353\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zer
+ onecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=61269133353
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG - Salon Méthode et stratégie DCG
+DTSTART;TZID=Europe/Paris:20260303T200000
+DTEND;TZID=Europe/Paris:20260303T204500
+DTSTAMP:20260201T214124Z
+UID:zec-student-336-DCG_Économie contemporaine@zeroencompta.com
+CATEGORIES:DCG,Économie contemporaine
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Économie contemporaine\n👨‍🏫 
+ Professeur: Fahd MOUADDIB\n⏱️ Durée: 45 minutes\n🔗 Lien: https://e
+ u01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=68502
+ 859238\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zer
+ onecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=68502859238
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DCG - Lancement des Révisions Intensives
+DTSTART;TZID=Europe/Paris:20260331T120000
+DTEND;TZID=Europe/Paris:20260331T124500
+DTSTAMP:20260201T214124Z
+UID:zec-student-75-DCG_Économie contemporaine@zeroencompta.com
+CATEGORIES:DCG,Économie contemporaine
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Économie contemporaine\n👨‍🏫 
+ Professeur: Fahd MOUADDIB\n⏱️ Durée: 45 minutes\n🔗 Lien: https://e
+ u01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=67937
+ 005433\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zer
+ onecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=67937005433
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

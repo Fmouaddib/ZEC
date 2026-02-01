@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZEC Formation - DSCG Management des systèmes d'information//Pla
+ nning Etudiant v1.0//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Planning des lives ZEC Formation - DSCG Management des systè
+ mes d'information
+X-WR-CALNAME:ZEC - DSCG Management des systèmes d'information
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:🎓 Après le DSCG ? le DEC
+DTSTART;TZID=Europe/Paris:20260120T200000
+DTEND;TZID=Europe/Paris:20260120T210000
+DTSTAMP:20260201T214124Z
+UID:zec-student-333-DSCG_Management des systèmes d'information@zeroencomp
+ ta.com
+CATEGORIES:DSCG,Management des systèmes d'information
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Management des systèmes d'informati
+ on\n👨‍🏫 Professeur: Gaël-Teiki CLOLUS\n⏱️ Durée: 60 minutes\
+ n🔗 Lien: https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3
+ Hm66nRWzv.1&omn=69555742414\n\n📧 Contact: contact@zeroencompta.com\n
+ 🌐 ZEC Formation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=69555742414
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -7,155 +7,10 @@ X-WR-CALDESC:Planning des lives ZEC Formation - DSCG Finance
 X-WR-CALNAME:ZEC - DSCG Finance
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:🎓 DSCG UE 2 - Diagnostic financier approfondi
-DTSTART;TZID=Europe/Paris:20250903T190000
-DTEND;TZID=Europe/Paris:20250903T203000
-DTSTAMP:20260111T200241Z
-UID:zec-student-45-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 90 minutes\n🔗 Lien: https://eu01web.zoom.us/j
- /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63591200806\n\n📧 C
- ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=63591200806
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DSCG UE 2 - Diagnostic financier approfondi
-DTSTART;TZID=Europe/Paris:20250909T190000
-DTEND;TZID=Europe/Paris:20250909T203000
-DTSTAMP:20260111T200241Z
-UID:zec-student-46-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 90 minutes\n🔗 Lien: https://eu01web.zoom.us/j
- /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63888182901\n\n📧 C
- ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=63888182901
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DSCG UE 2 - Evaluation d'entreprise
-DTSTART;TZID=Europe/Paris:20250918T190000
-DTEND;TZID=Europe/Paris:20250918T203000
-DTSTAMP:20260111T200241Z
-UID:zec-student-62-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 90 minutes\n🔗 Lien: https://eu01web.zoom.us/j
- /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=62470354769\n\n📧 C
- ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=62470354769
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DSCG UE 2 - Ingénierie financière
-DTSTART;TZID=Europe/Paris:20250928T110000
-DTEND;TZID=Europe/Paris:20250928T123000
-DTSTAMP:20260111T200241Z
-UID:zec-student-63-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 90 minutes\n🔗 Lien: https://eu01web.zoom.us/j
- /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63411697121\n\n📧 C
- ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=63411697121
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DSCG UE 2 - Ingénierie financière
-DTSTART;TZID=Europe/Paris:20251005T110000
-DTEND;TZID=Europe/Paris:20251005T123000
-DTSTAMP:20260111T200241Z
-UID:zec-student-64-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 90 minutes\n🔗 Lien: https://eu01web.zoom.us/j
- /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=62441760048\n\n📧 C
- ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=62441760048
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DSCG UE 2 - La trésorerie
-DTSTART;TZID=Europe/Paris:20251012T110000
-DTEND;TZID=Europe/Paris:20251012T123000
-DTSTAMP:20260111T200241Z
-UID:zec-student-65-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 90 minutes\n🔗 Lien: https://eu01web.zoom.us/j
- /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=67188265576\n\n📧 C
- ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=67188265576
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DSCG UE 2 - Evaluation d'entreprise
-DTSTART;TZID=Europe/Paris:20251016T190000
-DTEND;TZID=Europe/Paris:20251016T200000
-DTSTAMP:20260111T200241Z
-UID:zec-student-68-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom.us/j
- /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=67129255592\n\n📧 C
- ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=67129255592
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DSCG UE 2 - Investissement et financement
-DTSTART;TZID=Europe/Paris:20251019T110000
-DTEND;TZID=Europe/Paris:20251019T123000
-DTSTAMP:20260111T200241Z
-UID:zec-student-66-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 90 minutes\n🔗 Lien: https://eu01web.zoom.us/j
- /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=69557431841\n\n📧 C
- ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=69557431841
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 DSCG UE 2 - Révision Veille de l'epereuve - Questions/Répon
- ses
-DTSTART;TZID=Europe/Paris:20251020T210000
-DTEND;TZID=Europe/Paris:20251020T220000
-DTSTAMP:20260111T200241Z
-UID:zec-student-67-DSCG_Finance@zeroencompta.com
-CATEGORIES:DSCG,Finance
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom.us/j
- /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=65002690211\n\n📧 C
- ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=65002690211
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 Après le DSCG ? le DEC
 DTSTART;TZID=Europe/Paris:20260120T200000
 DTEND;TZID=Europe/Paris:20260120T210000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-333-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
@@ -168,10 +23,42 @@ LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎓 DSCG UE 2 - Question/Réponse
+DTSTART;TZID=Europe/Paris:20260215T120000
+DTEND;TZID=Europe/Paris:20260215T130000
+DTSTAMP:20260201T214124Z
+UID:zec-student-339-DSCG_Finance@zeroencompta.com
+CATEGORIES:DSCG,Finance
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Sim
+ on MALET\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01web.zoom.us/j/
+ 7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=62801595913\n\n📧 Co
+ ntact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=62801595913
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 DSCG 2 - Question/Réponse
+DTSTART;TZID=Europe/Paris:20260315T110000
+DTEND;TZID=Europe/Paris:20260315T114500
+DTSTAMP:20260201T214124Z
+UID:zec-student-341-DSCG_Finance@zeroencompta.com
+CATEGORIES:DSCG,Finance
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Sim
+ on MALET\n⏱️ Durée: 45 minutes\n🔗 Lien: https://eu01web.zoom.us/j/
+ 7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=66817009354\n\n📧 Co
+ ntact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=66817009354
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎓 Révision DCG UE 6 - Projet d'investissement
 DTSTART;TZID=Europe/Paris:20260319T193000
 DTEND;TZID=Europe/Paris:20260319T203000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-326-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
@@ -187,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - LA VALEUR
 DTSTART;TZID=Europe/Paris:20260624T193000
 DTEND;TZID=Europe/Paris:20260624T213000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-244-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
@@ -203,14 +90,14 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - LA VALEUR
 DTSTART;TZID=Europe/Paris:20260626T193000
 DTEND;TZID=Europe/Paris:20260626T213000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-245-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/
- j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=66713001918\n\n📧 
- Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Sim
+ on MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/j
+ /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=66713001918\n\n📧 C
+ ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=66713001918
 STATUS:CONFIRMED
@@ -219,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - LA VALEUR
 DTSTART;TZID=Europe/Paris:20260708T193000
 DTEND;TZID=Europe/Paris:20260708T213000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-246-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
@@ -233,16 +120,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - DIAGNOSTIC FINANCIER
-DTSTART;TZID=Europe/Paris:20260717T193000
-DTEND;TZID=Europe/Paris:20260717T213000
-DTSTAMP:20260111T200241Z
+DTSTART;TZID=Europe/Paris:20260714T193000
+DTEND;TZID=Europe/Paris:20260714T213000
+DTSTAMP:20260201T214124Z
 UID:zec-student-247-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/
- j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=65728080584\n\n📧 
- Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Sim
+ on MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/j
+ /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=65728080584\n\n📧 C
+ ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=65728080584
 STATUS:CONFIRMED
@@ -251,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - DIAGNOSTIC FINANCIER
 DTSTART;TZID=Europe/Paris:20260719T180000
 DTEND;TZID=Europe/Paris:20260719T200000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-248-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
@@ -267,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - EVALUATION D'ENTREPRISE
 DTSTART;TZID=Europe/Paris:20260729T193000
 DTEND;TZID=Europe/Paris:20260729T213000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-249-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
@@ -281,16 +168,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - EVALUATION D'ENTREPRISE
-DTSTART;TZID=Europe/Paris:20260731T180000
-DTEND;TZID=Europe/Paris:20260731T200000
-DTSTAMP:20260111T200241Z
+DTSTART;TZID=Europe/Paris:20260730T180000
+DTEND;TZID=Europe/Paris:20260730T200000
+DTSTAMP:20260201T214124Z
 UID:zec-student-250-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/
- j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=62433449540\n\n📧 
- Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Sim
+ on MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/j
+ /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=62433449540\n\n📧 C
+ ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=62433449540
 STATUS:CONFIRMED
@@ -299,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - EVALUATION D'ENTREPRISE
 DTSTART;TZID=Europe/Paris:20260830T193000
 DTEND;TZID=Europe/Paris:20260830T213000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-251-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
@@ -315,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - INVESTISSEMENT FINANCIER
 DTSTART;TZID=Europe/Paris:20260906T180000
 DTEND;TZID=Europe/Paris:20260906T200000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-252-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
@@ -331,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - INVESTISSEMENT FINANCIER
 DTSTART;TZID=Europe/Paris:20260909T193000
 DTEND;TZID=Europe/Paris:20260909T213000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-253-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
@@ -347,14 +234,14 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - INVESTISSEMENT FINANCIER
 DTSTART;TZID=Europe/Paris:20260913T180000
 DTEND;TZID=Europe/Paris:20260913T200000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-254-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/
- j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=62225481927\n\n📧 
- Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Sim
+ on MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/j
+ /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=62225481927\n\n📧 C
+ ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=62225481927
 STATUS:CONFIRMED
@@ -363,14 +250,14 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - TRESORERIE
 DTSTART;TZID=Europe/Paris:20260927T180000
 DTEND;TZID=Europe/Paris:20260927T200000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-255-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/
- j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=67134869446\n\n📧 
- Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Sim
+ on MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/j
+ /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=67134869446\n\n📧 C
+ ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=67134869446
 STATUS:CONFIRMED
@@ -379,14 +266,14 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - INGENIERIE FINANCIERE
 DTSTART;TZID=Europe/Paris:20261003T110000
 DTEND;TZID=Europe/Paris:20261003T130000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-256-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/
- j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63814594681\n\n📧 
- Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Sim
+ on MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/j
+ /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63814594681\n\n📧 C
+ ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=63814594681
 STATUS:CONFIRMED
@@ -395,14 +282,14 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - INGENIERIE FINANCIERE
 DTSTART;TZID=Europe/Paris:20261004T180000
 DTEND;TZID=Europe/Paris:20261004T200000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-257-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/
- j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63681025737\n\n📧 
- Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Sim
+ on MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/j
+ /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=63681025737\n\n📧 C
+ ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=63681025737
 STATUS:CONFIRMED
@@ -411,14 +298,14 @@ BEGIN:VEVENT
 SUMMARY:🎓 DSCG UE 2 - INGENIERIE FINANCIERE
 DTSTART;TZID=Europe/Paris:20261009T193000
 DTEND;TZID=Europe/Paris:20261009T213000
-DTSTAMP:20260111T200241Z
+DTSTAMP:20260201T214124Z
 UID:zec-student-258-DSCG_Finance@zeroencompta.com
 CATEGORIES:DSCG,Finance
 CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Mic
- hel Lasry\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/
- j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=66450126581\n\n📧 
- Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
+DESCRIPTION:📚 Formation ZEC - DSCG Finance\n👨‍🏫 Professeur: Sim
+ on MALET\n⏱️ Durée: 120 minutes\n🔗 Lien: https://eu01web.zoom.us/j
+ /7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=66450126581\n\n📧 C
+ ontact: contact@zeroencompta.com\n🌐 ZEC Formation - Zeronecompta
 LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
  RbBy1GK3Hm66nRWzv.1&omn=66450126581
 STATUS:CONFIRMED
