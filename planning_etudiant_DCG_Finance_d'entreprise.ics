@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Analyse du bilan fonctionnel
 DTSTART;TZID=Europe/Paris:20260114T193000
 DTEND;TZID=Europe/Paris:20260114T203000
-DTSTAMP:20260201T214124Z
+DTSTAMP:20260201T221309Z
 UID:zec-student-321-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -29,7 +29,7 @@ SUMMARY:🎓 DCG UE 6 - Risque d'exploitation\, rentabilité financière e
  t économique
 DTSTART;TZID=Europe/Paris:20260128T193000
 DTEND;TZID=Europe/Paris:20260128T203000
-DTSTAMP:20260201T214124Z
+DTSTAMP:20260201T221309Z
 UID:zec-student-322-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -47,7 +47,7 @@ SUMMARY:🎓 DCG UE 6 - Construction et compréhension du tableau de finan
  cement
 DTSTART;TZID=Europe/Paris:20260205T193000
 DTEND;TZID=Europe/Paris:20260205T203000
-DTSTAMP:20260201T214124Z
+DTSTAMP:20260201T221309Z
 UID:zec-student-323-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Salon Méthode et stratégie DCG
 DTSTART;TZID=Europe/Paris:20260210T200000
 DTEND;TZID=Europe/Paris:20260210T210000
-DTSTAMP:20260201T214124Z
+DTSTAMP:20260201T221309Z
 UID:zec-student-335-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -82,7 +82,7 @@ SUMMARY:🎓 DCG UE 6 - Construction et compréhension du tableau de flux
  de trésorerie
 DTSTART;TZID=Europe/Paris:20260226T193000
 DTEND;TZID=Europe/Paris:20260226T203000
-DTSTAMP:20260201T214124Z
+DTSTAMP:20260201T221309Z
 UID:zec-student-324-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Salon Méthode et stratégie DCG
 DTSTART;TZID=Europe/Paris:20260303T200000
 DTEND;TZID=Europe/Paris:20260303T204500
-DTSTAMP:20260201T214124Z
+DTSTAMP:20260201T221309Z
 UID:zec-student-336-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Analyse du BFRE normatif
 DTSTART;TZID=Europe/Paris:20260304T193000
 DTEND;TZID=Europe/Paris:20260304T203000
-DTSTAMP:20260201T214124Z
+DTSTAMP:20260201T221309Z
 UID:zec-student-325-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Projet d'investissement
 DTSTART;TZID=Europe/Paris:20260319T193000
 DTEND;TZID=Europe/Paris:20260319T203000
-DTSTAMP:20260201T214124Z
+DTSTAMP:20260201T221309Z
 UID:zec-student-326-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Lancement des Révisions Intensives
 DTSTART;TZID=Europe/Paris:20260331T120000
 DTEND;TZID=Europe/Paris:20260331T124500
-DTSTAMP:20260201T214124Z
+DTSTAMP:20260201T221309Z
 UID:zec-student-75-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Modes de financement et bilan financier
 DTSTART;TZID=Europe/Paris:20260402T203000
 DTEND;TZID=Europe/Paris:20260402T213000
-DTSTAMP:20260201T214124Z
+DTSTAMP:20260201T221309Z
 UID:zec-student-327-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Budget de trésorerie
 DTSTART;TZID=Europe/Paris:20260416T203000
 DTEND;TZID=Europe/Paris:20260416T213000
-DTSTAMP:20260201T214124Z
+DTSTAMP:20260201T221309Z
 UID:zec-student-328-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Gestion de la trésorerie déficitaire
 DTSTART;TZID=Europe/Paris:20260507T203000
 DTEND;TZID=Europe/Paris:20260507T213000
-DTSTAMP:20260201T214124Z
+DTSTAMP:20260201T221309Z
 UID:zec-student-329-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 6 - Placement des excédents de trésorerie
 DTSTART;TZID=Europe/Paris:20260514T203000
 DTEND;TZID=Europe/Paris:20260514T213000
-DTSTAMP:20260201T214124Z
+DTSTAMP:20260201T221309Z
 UID:zec-student-330-DCG_Finance d'entreprise@zeroencompta.com
 CATEGORIES:DCG,Finance d'entreprise
 CLASS:PUBLIC
