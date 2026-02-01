@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DCG UE 10 - Constitution de sociétés
 DTSTART;TZID=Europe/Paris:20260209T200000
 DTEND;TZID=Europe/Paris:20260209T210000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-135-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DCG UE 10 - Variation du capital
 DTSTART;TZID=Europe/Paris:20260223T200000
 DTEND;TZID=Europe/Paris:20260223T210000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-136-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - Questions/réponses et méthodologie
 DTSTART;TZID=Europe/Paris:20260508T200000
 DTEND;TZID=Europe/Paris:20260508T210000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-194-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - FUSION
 DTSTART;TZID=Europe/Paris:20260622T193000
 DTEND;TZID=Europe/Paris:20260622T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-182-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - FUSION
 DTSTART;TZID=Europe/Paris:20260629T193000
 DTEND;TZID=Europe/Paris:20260629T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-183-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - AUDIT
 DTSTART;TZID=Europe/Paris:20260706T193000
 DTEND;TZID=Europe/Paris:20260706T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-184-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - CONSOLIDATION
 DTSTART;TZID=Europe/Paris:20260716T193000
 DTEND;TZID=Europe/Paris:20260716T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-173-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - IFRS
 DTSTART;TZID=Europe/Paris:20260720T193000
 DTEND;TZID=Europe/Paris:20260720T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-185-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - IFRS
 DTSTART;TZID=Europe/Paris:20260723T193000
 DTEND;TZID=Europe/Paris:20260723T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-178-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - FUSION
 DTSTART;TZID=Europe/Paris:20260727T193000
 DTEND;TZID=Europe/Paris:20260727T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-186-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - CONSOLIDATION
 DTSTART;TZID=Europe/Paris:20260827T193000
 DTEND;TZID=Europe/Paris:20260827T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-175-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - AUDIT
 DTSTART;TZID=Europe/Paris:20260907T193000
 DTEND;TZID=Europe/Paris:20260907T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-188-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - CONSOLIDATION
 DTSTART;TZID=Europe/Paris:20260910T193000
 DTEND;TZID=Europe/Paris:20260910T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-176-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - AUDIT
 DTSTART;TZID=Europe/Paris:20260914T193000
 DTEND;TZID=Europe/Paris:20260914T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-189-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -265,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - CONSOLIDATION
 DTSTART;TZID=Europe/Paris:20260917T193000
 DTEND;TZID=Europe/Paris:20260917T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-177-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - CONSOLIDATION
 DTSTART;TZID=Europe/Paris:20260924T193000
 DTEND;TZID=Europe/Paris:20260924T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-174-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - CONSOLIDATION
 DTSTART;TZID=Europe/Paris:20261001T193000
 DTEND;TZID=Europe/Paris:20261001T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-179-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -319,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - FUSION
 DTSTART;TZID=Europe/Paris:20261005T193000
 DTEND;TZID=Europe/Paris:20261005T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-190-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - CONSOLIDATION
 DTSTART;TZID=Europe/Paris:20261008T193000
 DTEND;TZID=Europe/Paris:20261008T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-180-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - AUDIT
 DTSTART;TZID=Europe/Paris:20261012T193000
 DTEND;TZID=Europe/Paris:20261012T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-191-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 Révision DSCG UE 4 - CONSOLIDATION
 DTSTART;TZID=Europe/Paris:20261015T193000
 DTEND;TZID=Europe/Paris:20261015T213000
-DTSTAMP:20260201T221309Z
+DTSTAMP:20260201T233042Z
 UID:zec-student-181-DECOFI_Audit Contractuel et Contrôle légal des compt
  es@zeroencompta.com
 CATEGORIES:DECOFI,Audit Contractuel et Contrôle légal des comptes
