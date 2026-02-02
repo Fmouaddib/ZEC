@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Salon Méthode et stratégie DCG
 DTSTART;TZID=Europe/Paris:20260210T200000
 DTEND;TZID=Europe/Paris:20260210T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-335-DCG_Communication professionnelle@zeroencompta.com
 CATEGORIES:DCG,Communication professionnelle
 CLASS:PUBLIC
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Salon Méthode et stratégie DCG
 DTSTART;TZID=Europe/Paris:20260303T200000
 DTEND;TZID=Europe/Paris:20260303T204500
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-336-DCG_Communication professionnelle@zeroencompta.com
 CATEGORIES:DCG,Communication professionnelle
 CLASS:PUBLIC
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Lancement des Révisions Intensives
 DTSTART;TZID=Europe/Paris:20260331T120000
 DTEND;TZID=Europe/Paris:20260331T124500
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-75-DCG_Communication professionnelle@zeroencompta.com
 CATEGORIES:DCG,Communication professionnelle
 CLASS:PUBLIC

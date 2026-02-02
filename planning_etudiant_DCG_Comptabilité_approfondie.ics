@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Immobilisations financières
 DTSTART;TZID=Europe/Paris:20260105T200000
 DTEND;TZID=Europe/Paris:20260105T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-133-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Stocks
 DTSTART;TZID=Europe/Paris:20260119T200000
 DTEND;TZID=Europe/Paris:20260119T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-134-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Constitution de sociétés
 DTSTART;TZID=Europe/Paris:20260209T200000
 DTEND;TZID=Europe/Paris:20260209T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-135-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Salon Méthode et stratégie DCG
 DTSTART;TZID=Europe/Paris:20260210T200000
 DTEND;TZID=Europe/Paris:20260210T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-335-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Variation du capital
 DTSTART;TZID=Europe/Paris:20260223T200000
 DTEND;TZID=Europe/Paris:20260223T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-136-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Salon Méthode et stratégie DCG
 DTSTART;TZID=Europe/Paris:20260303T200000
 DTEND;TZID=Europe/Paris:20260303T204500
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-336-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Emprunts obligataires
 DTSTART;TZID=Europe/Paris:20260309T200000
 DTEND;TZID=Europe/Paris:20260309T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-137-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Contrat à long terme
 DTSTART;TZID=Europe/Paris:20260316T200000
 DTEND;TZID=Europe/Paris:20260316T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-138-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - Subventions/Abandons de créances
 DTSTART;TZID=Europe/Paris:20260323T200000
 DTEND;TZID=Europe/Paris:20260323T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-139-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Lancement des Révisions Intensives
 DTSTART;TZID=Europe/Paris:20260331T120000
 DTEND;TZID=Europe/Paris:20260331T124500
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-75-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - RI - Immobilisations corporelles
 DTSTART;TZID=Europe/Paris:20260401T200000
 DTEND;TZID=Europe/Paris:20260401T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-279-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - RI - Immobilisations incorporelles
 DTSTART;TZID=Europe/Paris:20260408T200000
 DTEND;TZID=Europe/Paris:20260408T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-280-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - RI - Immobilisations financières
 DTSTART;TZID=Europe/Paris:20260410T200000
 DTEND;TZID=Europe/Paris:20260410T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-281-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - RI - Stocks
 DTSTART;TZID=Europe/Paris:20260415T200000
 DTEND;TZID=Europe/Paris:20260415T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-282-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - RI - Constitution de sociétés
 DTSTART;TZID=Europe/Paris:20260422T200000
 DTEND;TZID=Europe/Paris:20260422T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-283-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - RI - Variation du capital
 DTSTART;TZID=Europe/Paris:20260424T200000
 DTEND;TZID=Europe/Paris:20260424T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-284-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -284,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - RI - Emprunts obligataires
 DTSTART;TZID=Europe/Paris:20260429T200000
 DTEND;TZID=Europe/Paris:20260429T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-285-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 10 - RI - Subventions et abandons de créances
 DTSTART;TZID=Europe/Paris:20260506T200000
 DTEND;TZID=Europe/Paris:20260506T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-286-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -319,7 +319,7 @@ SUMMARY:🎓 DCG UE 10 - RI - Opérations particulières de clôture\, cr
  éances et dettes
 DTSTART;TZID=Europe/Paris:20260513T200000
 DTEND;TZID=Europe/Paris:20260513T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-287-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
@@ -337,7 +337,7 @@ SUMMARY:🎓 DCG UE 10 - RI - Entites spécifiques\, abonnements des charg
  es et produits
 DTSTART;TZID=Europe/Paris:20260520T200000
 DTEND;TZID=Europe/Paris:20260520T210000
-DTSTAMP:20260201T233042Z
+DTSTAMP:20260202T001849Z
 UID:zec-student-288-DCG_Comptabilité approfondie@zeroencompta.com
 CATEGORIES:DCG,Comptabilité approfondie
 CLASS:PUBLIC
