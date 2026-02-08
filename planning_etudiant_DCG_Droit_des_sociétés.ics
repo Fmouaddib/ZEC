@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - La SARL Partie 2/2 (Chap 8)
 DTSTART;TZID=Europe/Paris:20251208T193000
 DTEND;TZID=Europe/Paris:20251208T203000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-157-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - La SA et SAS (Chap 9)
 DTSTART;TZID=Europe/Paris:20260112T190000
 DTEND;TZID=Europe/Paris:20260112T200000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-158-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -46,7 +46,7 @@ SUMMARY:🎓 DCG UE 2 - Entités particulières Partie 1/2 (Chap 11\, 12\,
   13 \, 14\, 15)
 DTSTART;TZID=Europe/Paris:20260126T193000
 DTEND;TZID=Europe/Paris:20260126T203000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-159-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - La SAS
 DTSTART;TZID=Europe/Paris:20260202T193000
 DTEND;TZID=Europe/Paris:20260202T203000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-160-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -77,27 +77,10 @@ LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 DCG - Salon Méthode et stratégie DCG
-DTSTART;TZID=Europe/Paris:20260210T200000
-DTEND;TZID=Europe/Paris:20260210T210000
-DTSTAMP:20260202T002743Z
-UID:zec-student-335-DCG_Droit des sociétés@zeroencompta.com
-CATEGORIES:DCG,Droit des sociétés
-CLASS:PUBLIC
-DESCRIPTION:📚 Formation ZEC - DCG Droit des sociétés\n👨‍🏫 Pro
- fesseur: Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01
- web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=61269133
- 353\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zerone
- compta
-LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
- RbBy1GK3Hm66nRWzv.1&omn=61269133353
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - Les procédures collectives (Chap 17\, 18)
 DTSTART;TZID=Europe/Paris:20260216T193000
 DTEND;TZID=Europe/Paris:20260216T203000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-161-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -111,10 +94,27 @@ LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎓 DCG - Salon Méthode et stratégie DCG
+DTSTART;TZID=Europe/Paris:20260217T200000
+DTEND;TZID=Europe/Paris:20260217T210000
+DTSTAMP:20260208T131850Z
+UID:zec-student-335-DCG_Droit des sociétés@zeroencompta.com
+CATEGORIES:DCG,Droit des sociétés
+CLASS:PUBLIC
+DESCRIPTION:📚 Formation ZEC - DCG Droit des sociétés\n👨‍🏫 Pro
+ fesseur: Fahd MOUADDIB\n⏱️ Durée: 60 minutes\n🔗 Lien: https://eu01
+ web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRYRbBy1GK3Hm66nRWzv.1&omn=61269133
+ 353\n\n📧 Contact: contact@zeroencompta.com\n🌐 ZEC Formation - Zerone
+ compta
+LOCATION:En ligne - https://eu01web.zoom.us/j/7326337202?pwd=RK9LuBcji1kRY
+ RbBy1GK3Hm66nRWzv.1&omn=61269133353
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - Droit pénal des affaires (Chap 19\, 20\, 21)
 DTSTART;TZID=Europe/Paris:20260302T193000
 DTEND;TZID=Europe/Paris:20260302T203000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-162-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Salon Méthode et stratégie DCG
 DTSTART;TZID=Europe/Paris:20260303T200000
 DTEND;TZID=Europe/Paris:20260303T204500
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-336-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG - Lancement des Révisions Intensives
 DTSTART;TZID=Europe/Paris:20260331T120000
 DTEND;TZID=Europe/Paris:20260331T124500
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-75-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - RI - La formation et naissance de la société
 DTSTART;TZID=Europe/Paris:20260406T193000
 DTEND;TZID=Europe/Paris:20260406T203000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-259-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -183,7 +183,7 @@ SUMMARY:🎓 DCG UE 2 - RI - La dissolution et sociétés non immatriculé
  es
 DTSTART;TZID=Europe/Paris:20260413T193000
 DTEND;TZID=Europe/Paris:20260413T203000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-260-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - RI - SNC
 DTSTART;TZID=Europe/Paris:20260420T193000
 DTEND;TZID=Europe/Paris:20260420T203000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-261-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - RI - SARL PARTIE 1
 DTSTART;TZID=Europe/Paris:20260427T193000
 DTEND;TZID=Europe/Paris:20260427T203000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-262-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - RI - SARL PARTIE 2
 DTSTART;TZID=Europe/Paris:20260429T190000
 DTEND;TZID=Europe/Paris:20260429T200000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-263-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - RI - SA
 DTSTART;TZID=Europe/Paris:20260504T193000
 DTEND;TZID=Europe/Paris:20260504T203000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-264-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - RI - SAS
 DTSTART;TZID=Europe/Paris:20260506T190000
 DTEND;TZID=Europe/Paris:20260506T200000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-265-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - RI - Les entités particulières
 DTSTART;TZID=Europe/Paris:20260511T193000
 DTEND;TZID=Europe/Paris:20260511T203000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-266-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -302,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - RI - Les procédures collectives
 DTSTART;TZID=Europe/Paris:20260513T190000
 DTEND;TZID=Europe/Paris:20260513T200000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-267-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
@@ -319,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 DCG UE 2 - RI - Droit pénal
 DTSTART;TZID=Europe/Paris:20260518T193000
 DTEND;TZID=Europe/Paris:20260518T203000
-DTSTAMP:20260202T002743Z
+DTSTAMP:20260208T131850Z
 UID:zec-student-268-DCG_Droit des sociétés@zeroencompta.com
 CATEGORIES:DCG,Droit des sociétés
 CLASS:PUBLIC
